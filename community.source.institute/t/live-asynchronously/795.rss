@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Live asynchronously</title>
+    <link>https://community.source.institute/t/live-asynchronously/795</link>
+    <description>A few posts that&#39;ll get you thinking about the control you have on the quality of your time:
+
+[Maker&#39;s Schedule, Manager&#39;s Schedule, by Paul Graham](http://www.paulgraham.com/makersschedule.html)
+
+&gt; Most powerful people are on the manager&#39;s schedule.  It&#39;s the schedule of command.  But there&#39;s another way of using time that&#39;s common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can&#39;t write or program well in units of an hour.  That&#39;s barely enough time to get started.
+
+[Live asynchronously.](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.5hnnkmdmr)
+
+&gt; Last year I turned off all my notifications. I stopped booking meetings. I started living asynchronously.Now instead of being interrupted throughout the day — or rushing from one meeting to the next — I sit down and get work done.</description>
+    
+    <lastBuildDate>Thu, 08 Sep 2016 11:19:57 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/live-asynchronously/795.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Live asynchronously</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>This topic is no longer a banner. It will no longer appear at the top of every page.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/live-asynchronously/795/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/live-asynchronously/795/3</link>
+        <pubDate>Wed, 02 Nov 2016 07:20:15 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-795-3</guid>
+        <source url="https://community.source.institute/t/live-asynchronously/795.rss">Live asynchronously</source>
+      </item>
+      <item>
+        <title>Live asynchronously</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>This topic is now a banner. It will appear at the top of every page until it is dismissed by the user.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/live-asynchronously/795/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/live-asynchronously/795/2</link>
+        <pubDate>Wed, 02 Nov 2016 07:19:50 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-795-2</guid>
+        <source url="https://community.source.institute/t/live-asynchronously/795.rss">Live asynchronously</source>
+      </item>
+      <item>
+        <title>Live asynchronously</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>A few posts that’ll get you thinking about the control you have on the quality of your time:</p>
+<p><a href="http://www.paulgraham.com/makersschedule.html">Maker’s Schedule, Manager’s Schedule, by Paul Graham</a></p>
+<blockquote>
+<p>Most powerful people are on the manager’s schedule.  It’s the schedule of command.  But there’s another way of using time that’s common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can’t write or program well in units of an hour.  That’s barely enough time to get started.</p>
+</blockquote>
+<p><a href="https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.5hnnkmdmr">Live asynchronously.</a></p>
+<blockquote>
+<p>Last year I turned off all my notifications. I stopped booking meetings. I started living asynchronously.Now instead of being interrupted throughout the day — or rushing from one meeting to the next — I sit down and get work done.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/live-asynchronously/795/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/live-asynchronously/795/1</link>
+        <pubDate>Thu, 08 Sep 2016 11:19:57 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-795-1</guid>
+        <source url="https://community.source.institute/t/live-asynchronously/795.rss">Live asynchronously</source>
+      </item>
+  </channel>
+</rss>

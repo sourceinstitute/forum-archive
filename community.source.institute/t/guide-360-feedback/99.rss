@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Guide: 360 Feedback</title>
+    <link>https://community.source.institute/t/guide-360-feedback/99</link>
+    <description>This is a guide on how to run a 360 feedback in Source, and why we do it.
+
+# Aim: 
+
+&quot;Knowing is half the battle&quot; 
+_G.I. Joe_
+
+The main aim is to gain awareness about your behaviour and how it affects  the people around you - positively or negatively. It gives you more complete information in the inter-team dynamics and and insight what to get better at. 
+This particular format creates a safe and easy environment to address minor or major problems that were not addressed previously for some reason. By resolving those problems on time, you decrease stress and increase productivity. By sharing the positives you find which is the right path and everyone can enjoy their work while growing the organization successfully.
+ 
+
+----------------
+# Rules of Thumb:
+
+## When is it appropriate to do a 360?
+
+* when you feel you need one (you don&#39;t need to be the project lead to call for a 360)
+* especially after big projects - can be a good addition to a Retrospective 
+* most companies make it once a year, but from our experience, for smaller and fast moving organizations it&#39;s good to have one every couple of months.
+
+## Scope
+* Cover everything in terms of your work together - not only personality traits of your team mate, but also about way of communications or dynamics when working together or the methodologies, organizational design or tools
+* No need to be the whole team - can do  few iterations of smaller groups of people - especially when it&#39;s a remote team.
+
+## Roles:
+The 360 FB needs one facilitator. The same person can also receive FB in the session. 
+Functions:
+* Keeping time 
+* keep the conversations within the format. Not let conversations derail.
+
+## Timing
+* Be prepared to spend most of the day with those people, don&#39;t set any other appointments
+* For the feedback session itself a good rule of thumb is 2 hour for 4 people team. For every additional person add another at least 30 min (growing exponentially).
+
+-------------
+# The format itself:
+
+## Session rules (you can make visuals of the rules and stick them on the wall)
+ 
+- Full attention (no phones) 
+- Flow of communication - If you&#39;re the one getting feedback, you just listen and reflect. All you can do is ask for clarification if you haven&#39;t understood something
+- Listen! - it&#39;s important to understand their point of view, without defending why it happened.
+- You Decide - in the end of the day you decide what to do with the feedback. If you get the same input from more and one person, it&#39;s good to think about that behaviour. If you get FB from just one person but think this is important for the dynamic between you two, you can just adjust your behaviour towards that person. 
+
+
+## Tips
+
+### When giving feedback
+
+- Be specific - give examples of when this happened - tell the story shortly
+    - BIO - a useful method for giving negative feedback constructively is to state the:
+        - Behaviour the person had (and the occasion)
+        - Impact it had on you and your feelings
+        - Outcome the whole situation produced
+- Keep it actionable - suggest how the person can improve
+- + and Deltas - aim for 2 of each
+    - + is what you want to see more of
+    - Delta is what you&#39;d like to see changed (improved)
+- &quot;Others will agree&quot;/ &quot;A. said he felt bad when you..&quot;- Talk about the impact on you, the others will address their problem when it&#39;s their turn. 
+
+### When receiving feedback
+- Recap what others said, to make sure you understand it
+- Ask questions if you&#39;re not sure you&#39;ve understood
+- Don&#39;t comment or respond. Try to understand the other person&#39;s side and understand the impact on them
+- Say what actions you want to take (even if it is &quot;I need a meeting to root-cause this in a retro, I&#39;m taking it on, but we need to go in details before I can take actions&quot;) 
+- Ask for help - If you don&#39;t know how to improve, you can always ask for help from others.
+
+## Preparation: 
+* Sharpies
+* Plain cards
+* sticky notes with rules, tips and timing
+
+
+## Flow of the day: 
+
+### Start
+It doesn&#39;t need to be rushed. As a start can give yourself some time to hang out and let yourself feel comfortable emotionally. 
+
+### The session
+1. 5-10 min - Briefing about the format - Even when the organisation is used to the format, just do a quick reminder and stick it on the wall for people to see. 
+ - Aim of the format 
+ - Rules
+ - Tips 
+ - Structure and timing 
+_Especially if you do 360 feedback for the first time, it&#39;s important to create a trusting and open environment - nobody is perfect and nobody is here to blame the others. We all want to gain a better understanding of how we impact each other in the team. As facilitator, keep this attitude and remind people if they derail._
+
+2. Decide on a person to give feedback to
+3. 3-5 min- Write down feedback (1 idea per card) - 3-5 min
+4. 5 min - Each team mate walks through their cards and explains
+5. 5 min - The person receiving feedback can ask questions, recap what they understood and share ideas for next steps to be taken.
+6. Continue with the person seating next and repeat points 3. to 5. until everybody has received feedback.
+7. 15 min people reflecting on their feedback (optional, but usually it naturally continues into further discussions.) 
+
+### After the session
+You can ask if anyone wants do add or ask anything. Then let the conversations continue naturally - to some ideas you have for change/ to helping someone with a particular problem or just friendly conversations
+
+### Have fun!
+It&#39;s important to do something fun together and not just leave - either go for lunch/ beers/ bowling/ hiking/ something else fun.</description>
+    
+    <lastBuildDate>Sun, 29 Oct 2017 10:43:02 +0000</lastBuildDate>
+    <category>Source Activities</category>
+    <atom:link href="https://community.source.institute/t/guide-360-feedback/99.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Guide: 360 Feedback</title>
+        <dc:creator><![CDATA[@bart Bart Doorneweert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/bart">@bart</a> wrote:</p>
+          <blockquote>
+              <p>We time boxed this in a different way after LIF 4, round 1:</p>
+<ol>
+<li>Write for 5 min. Limit yourself to 2 post-its. One for +, one for Delta</li>
+<li>Feedback, each person gets 2 minutes.</li>
+<li>5 minutes for clarifying questions.</li>
+</ol>
+<p>Explicit instruction is that this format is just to get the point/observation across. Deeper talks are for after.</p>
+<p>We also tried a mood=graph for the whole program. Although useful, we decided the mood graph would be a better tool for a daily retro.</p>
+<p>It would be very interesting to collect this, and then turn it into a synthesis at the end. Overall this will help to design an experience for the trainers/facilitators as well, so that they can best focus, and do their job as seamlessly as possible, fully focussed on the learners.</p>
+<p>Lastly, we went into the program evaluation itself.  We looked at teach segment, and had decision to either, keep, change, shift, or scrap things in the program. Again, details on how, are left for a later date.</p>
+<p>Overall this retro with 5 people, took 3,5 hours.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/guide-360-feedback/99/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/guide-360-feedback/99/2</link>
+        <pubDate>Sat, 28 Oct 2017 19:40:49 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-99-2</guid>
+        <source url="https://community.source.institute/t/guide-360-feedback/99.rss">Guide: 360 Feedback</source>
+      </item>
+      <item>
+        <title>Guide: 360 Feedback</title>
+        <dc:creator><![CDATA[@boyana boyana]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/boyana">@boyana</a> wrote:</p>
+          <blockquote>
+              <p>This is a guide on how to run a 360 feedback in Source, and why we do it.</p>
+<h1>Aim:</h1>
+<p>"Knowing is half the battle"<br>
+<em>G.I. Joe</em></p>
+<p>The main aim is to gain awareness about your behaviour and how it affects  the people around you - positively or negatively. It gives you more complete information in the inter-team dynamics and and insight what to get better at.<br>
+This particular format creates a safe and easy environment to address minor or major problems that were not addressed previously for some reason. By resolving those problems on time, you decrease stress and increase productivity. By sharing the positives you find which is the right path and everyone can enjoy their work while growing the organization successfully.</p>
+<hr>
+<h1>Rules of Thumb:</h1>
+<h2>When is it appropriate to do a 360?</h2>
+<ul>
+<li>when you feel you need one (you don’t need to be the project lead to call for a 360)</li>
+<li>especially after big projects - can be a good addition to a Retrospective</li>
+<li>most companies make it once a year, but from our experience, for smaller and fast moving organizations it’s good to have one every couple of months.</li>
+</ul>
+<h2>Scope</h2>
+<ul>
+<li>Cover everything in terms of your work together - not only personality traits of your team mate, but also about way of communications or dynamics when working together or the methodologies, organizational design or tools</li>
+<li>No need to be the whole team - can do  few iterations of smaller groups of people - especially when it’s a remote team.</li>
+</ul>
+<h2>Roles:</h2>
+<p>The 360 FB needs one facilitator. The same person can also receive FB in the session.<br>
+Functions:</p>
+<ul>
+<li>Keeping time</li>
+<li>keep the conversations within the format. Not let conversations derail.</li>
+</ul>
+<h2>Timing</h2>
+<ul>
+<li>Be prepared to spend most of the day with those people, don’t set any other appointments</li>
+<li>For the feedback session itself a good rule of thumb is 2 hour for 4 people team. For every additional person add another at least 30 min (growing exponentially).</li>
+</ul>
+<hr>
+<h1>The format itself:</h1>
+<h2>Session rules (you can make visuals of the rules and stick them on the wall)</h2>
+<ul>
+<li>Full attention (no phones)</li>
+<li>Flow of communication - If you’re the one getting feedback, you just listen and reflect. All you can do is ask for clarification if you haven’t understood something</li>
+<li>Listen! - it’s important to understand their point of view, without defending why it happened.</li>
+<li>You Decide - in the end of the day you decide what to do with the feedback. If you get the same input from more and one person, it’s good to think about that behaviour. If you get FB from just one person but think this is important for the dynamic between you two, you can just adjust your behaviour towards that person.</li>
+</ul>
+<h2>Tips</h2>
+<h3>When giving feedback</h3>
+<ul>
+<li>Be specific - give examples of when this happened - tell the story shortly
+<ul>
+<li>BIO - a useful method for giving negative feedback constructively is to state the:
+<ul>
+<li>Behaviour the person had (and the occasion)</li>
+<li>Impact it had on you and your feelings</li>
+<li>Outcome the whole situation produced</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Keep it actionable - suggest how the person can improve</li>
+<li>
+<ul>
+<li>and Deltas - aim for 2 of each
+<ul>
+<li>
+<ul>
+<li>is what you want to see more of</li>
+</ul>
+</li>
+<li>Delta is what you’d like to see changed (improved)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>“Others will agree”/ “A. said he felt bad when you…”- Talk about the impact on you, the others will address their problem when it’s their turn.</li>
+</ul>
+<h3>When receiving feedback</h3>
+<ul>
+<li>Recap what others said, to make sure you understand it</li>
+<li>Ask questions if you’re not sure you’ve understood</li>
+<li>Don’t comment or respond. Try to understand the other person’s side and understand the impact on them</li>
+<li>Say what actions you want to take (even if it is “I need a meeting to root-cause this in a retro, I’m taking it on, but we need to go in details before I can take actions”)</li>
+<li>Ask for help - If you don’t know how to improve, you can always ask for help from others.</li>
+</ul>
+<h2>Preparation:</h2>
+<ul>
+<li>Sharpies</li>
+<li>Plain cards</li>
+<li>sticky notes with rules, tips and timing</li>
+</ul>
+<h2>Flow of the day:</h2>
+<h3>Start</h3>
+<p>It doesn’t need to be rushed. As a start can give yourself some time to hang out and let yourself feel comfortable emotionally.</p>
+<h3>The session</h3>
+<ol>
+<li>5-10 min - Briefing about the format - Even when the organisation is used to the format, just do a quick reminder and stick it on the wall for people to see.</li>
+</ol>
+<ul>
+<li>Aim of the format</li>
+<li>Rules</li>
+<li>Tips</li>
+<li>Structure and timing<br>
+<em>Especially if you do 360 feedback for the first time, it’s important to create a trusting and open environment - nobody is perfect and nobody is here to blame the others. We all want to gain a better understanding of how we impact each other in the team. As facilitator, keep this attitude and remind people if they derail.</em>
+</li>
+</ul>
+<ol start="2">
+<li>Decide on a person to give feedback to</li>
+<li>3-5 min- Write down feedback (1 idea per card) - 3-5 min</li>
+<li>5 min - Each team mate walks through their cards and explains</li>
+<li>5 min - The person receiving feedback can ask questions, recap what they understood and share ideas for next steps to be taken.</li>
+<li>Continue with the person seating next and repeat points 3. to 5. until everybody has received feedback.</li>
+<li>15 min people reflecting on their feedback (optional, but usually it naturally continues into further discussions.)</li>
+</ol>
+<h3>After the session</h3>
+<p>You can ask if anyone wants do add or ask anything. Then let the conversations continue naturally - to some ideas you have for change/ to helping someone with a particular problem or just friendly conversations</p>
+<h3>Have fun!</h3>
+<p>It’s important to do something fun together and not just leave - either go for lunch/ beers/ bowling/ hiking/ something else fun.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/guide-360-feedback/99/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/guide-360-feedback/99/1</link>
+        <pubDate>Sun, 03 Apr 2016 08:50:29 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-99-1</guid>
+        <source url="https://community.source.institute/t/guide-360-feedback/99.rss">Guide: 360 Feedback</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to start an online marketplace from AirBnB&#39;s Director Of Product</title>
+    <link>https://community.source.institute/t/how-to-start-an-online-marketplace-from-airbnbs-director-of-product/281</link>
+    <description>[Dan Hill](https://medium.com/@danhilltech) is the Director of Product for AirBnB.  He got there by starting Crashpadder, the same idea at the same time as AirBnB (well, 5 days before them), but in Europe. And later sold it to them.
+
+When founders ask me about how to get their marketplace model off the ground, I always refer to Dan.  He had a clear way to do this from the beginning, back in London.
+
+[His slides from a London meetup](http://www.slideshare.net/danhilltch/marketplace-startups-lessons-leaned) are a great overview of his thinking, with some examples to get you thinking for yourself.  But for a structured explanation, I refer to people to archive.org to dredge up [his old blog](http://web.archive.org/web/20130215184028/http://danhilltech.tumblr.com/post/16293051293/at-crashpadder-weve-been-working-on-a).  
+
+To save us time, I thought I&#39;d quote the whole thing here for easier reference:
+
+&gt; # Some basics.
+&gt; 
+![](/uploads/default/original/1X/a8b26950e2b0ada03e1afa26bd79de5a3cedda17.jpg)
+&gt; Whilst others may have articulated this elsewhere, I’ve found there are essentially two distinct types of marketplace: ‘local’ and ‘non-local’. In a local marketplace, the supply and demand are necessarily both consumed within the same geography (city, town, neighbourhood); examples include TaskRabbit - the people doing the tasks live near those needing tasks done, Ecomodo - people borrow tools etc. off people near them; Kinderfee - people book a sitter who lives near them. Non-local marketplaces are the opposite; examples include Crashpadder/Airbnb - people use the service because they need accommodation elsewhere; Gidsy - people book because they don’t know the area. Some marketplaces operate irrespective of course: eBay - people either post or collect; MinuteBox - the value transfer takes place entirely online.
+&gt; 
+&gt; The distinction is important. The ways you seed, grow and expand each is different. At Crashpadder we must seed a new geography in a highly localised way (London, say), and then get demand from everywhere/anywhere BUT London. Conversely, TaskRabbit would want to target both sides of the marketplace in a highly dense geography. 
+&gt; 
+&gt; Next, you need availability &amp; liquidity in your marketplace. This is the hard bit, especially early on in a market. We need available hosts that can be booked, and guests that are making bookings. The experience of a user, be they supply or demand, is only partly a function of your service; most of the experience is determined by the right volume of their opposite.
+&gt; 
+&gt; The key therefore to understand in your business is that your job is only to facilitate value transfer, not create the value. You charge money for this service. The more value you transfer, the more money you make.
+&gt; 
+&gt; So, understand the product you sell. eBay doesn’t sell second-hand goods, TaskRabbit doesn’t sell tasks and we don’t sell rooms. We sell trust. Our hosts sell rooms.
+&gt; 
+&gt; # Chickens and eggs.
+&gt; 
+![](/uploads/default/original/1X/c0604071e621c082d7514c06dd64c3ea9dec0e01.jpg)
+
+&gt; Do I need a chicken or an egg? Should we get supply first, or demand. The answer is both. Success is being able to ramp up both sides proportionally. We’ve found it best to start in one geography and achieve scalable liquidity then rinse and repeat. 
+
+![](/uploads/default/original/1X/c2edae036dc928f801b9e1d0e54ad4030c931796.jpg)
+
+
+&gt; Two techniques we’ve found powerful:
+&gt; 
+&gt; A time critical event - find a reason why both sides of your marketplace are going to have to come together at the same point, giving you that initial liquidity. For example, the Olympics or Edinburgh Festival are great for us, as both sides concentrate their expectations and usage around the same window.
+&gt; 
+&gt; An existing strong network, a niche - the trick here is to find a group of users on both sides who are willing to put the extra effort and time into waiting for full liquidity. For eBay, this might be stamp collectors - they’re willing to come back and try again until they get that one perfect stamp. Someone buying a HiFi would simply go somewhere else that does have liquidity (a high-street store).
+
+&gt; 
+&gt; # Types of value
+&gt; 
+![](/uploads/default/original/1X/a9dfe6f0a0c650d73f4b559b6188284021895ba2.jpg)
+
+&gt; Another important distinction between types of marketplace is between the types of value being sold: lasting vs one-time inventory. Lasting inventory you can reuse multiple times per listing, for example our rooms can be booked multiple times ad infinitum, baring unavailable periods. One-time inventory, for example goods on eBay, and only be consumed once, then you need to go back to square one and get more inventory. I think a large part of the success of the P2P accommodation model is due to the high value-to-supplier ratio compared with one-time inventory models.
+&gt; 
+&gt; # Marketplace Half-life
+&gt; 
+&gt; This is something we began modelling a while ago, and has proved very powerful in predicting future behaviour. 
+&gt; 
+&gt; _The half-life of your (lasting) inventory is the time it takes for it to half in value._
+&gt; 
+
+![](/uploads/default/original/1X/49d9309d888e3f1b35e79f33a4059e7bbe5c02bd.jpg)
+
+&gt; In our case, this is the time it takes for the likelihood of a new booking request to be accepted. If a host gets a booking every week (say), then they’re engaged, their availability is up-to-date, and we know we have a reliable method of contacting them. After a period of time, that same probability drops as they’ve not been engaged so not updated their availability, may have changed email address, may have gone elsewhere for bookings, and so on.
+&gt; 
+&gt; Understanding your half-life allows you to balance the distribution of new bookings/guests effectively between first time users and repeat users. Each host has their own sweet-spot for bookings (every week, two weekends a month, every two months etc.), but when you hit it they’re yours.
+&gt; 
+&gt; # Competition and Virality
+&gt; 
+&gt; There’s an inherent competition on either side of a marketplace. Either hosts are competing to get the (best) guests, or guests are competing to book the (best) hosts. If you can manage the level of competition on either side, you can cause both side to up their game. If our hosts see they’re moving down search results (but are still roughly within 1/2 half-life cycles) they’ll look at the new features and options to get them back up: maybe more photos, better descriptions or tagging, updating their calendar etc. Guests to likewise - they’ll provide more useful information about themselves, respond to messages quickly etc.
+
+![](/uploads/default/original/1X/854f0dd73825072f35ab225d770f28781ca63998.jpg)
+&gt; 
+&gt; But. The side that’s competing generally won’t go viral or want to share your product or platform. A host that’s feeling a bit of competition to get bookings won’t want to tell their friends (who live in the same area, right?) about your service because that will only increase the competition they’re already facing. If they’re making more money that they know what to do with, they will. (Or if they’re essentially happily saturated). 
+&gt; 
+&gt; You also don’t want competition on price. If you push competition on the supply side to far, you might end up with people cutting prices. At that point they’re probably done with your service anyway and your marketplace is essentially broken (there’s NO demand), but you also earn less money. If the supply side starts lowering prices, look hard at what’s going on.
+&gt; 
+&gt; # Marketplaces are cool
+&gt; 
+![](/uploads/default/original/1X/84c54d162e805c889c5949f935fea65f2e540378.jpg)
+
+&gt; We’ve been running a marketplace for 3 years now. We were one of the first into the P2P accommodation space, and it’s a brilliant model. The high network effect (Metcalfe’s law) makes switching expensive and thus your supply defensible. The more reviews a host has, the more reviews they get, and the bigger the drop from starting again elsewhere. And what’s really nice is building a business on existing, underused, value. We’re not building hotels, but selling shovels. We allow others to get more value from the world.
+
+Dan was recently on the Seedcamp podcast, [talking about his experience](http://seedcamp.com/seedcamp-podcast-episode-28-dan-hill-product-lead-at-airbnb/).
+
+https://soundcloud.com/seedcamp/dan-hill-product-lead-at-airbnb
+
+You can show Dan your appreciation on [Twitter](https://twitter.com/serenestudios) and follow his latest writing on [Medium](https://medium.com/@danhilltech).
+
+-------------
+_Can you relate to the stories we told here? How is your experience different? We&#39;d love to hear from you. Your questions and comments are what will help us make better lessons in the future._</description>
+    
+    <lastBuildDate>Tue, 26 Jul 2016 20:03:50 +0000</lastBuildDate>
+    <category>The Sources</category>
+    <atom:link href="https://community.source.institute/t/how-to-start-an-online-marketplace-from-airbnbs-director-of-product/281.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to start an online marketplace from AirBnB&#39;s Director Of Product</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://medium.com/@danhilltech" rel="nofollow noopener">Dan Hill</a> is the Director of Product for AirBnB.  He got there by starting Crashpadder, the same idea at the same time as AirBnB (well, 5 days before them), but in Europe. And later sold it to them.</p>
+<p>When founders ask me about how to get their marketplace model off the ground, I always refer to Dan.  He had a clear way to do this from the beginning, back in London.</p>
+<p><a href="http://www.slideshare.net/danhilltch/marketplace-startups-lessons-leaned" rel="nofollow noopener">His slides from a London meetup</a> are a great overview of his thinking, with some examples to get you thinking for yourself.  But for a structured explanation, I refer to people to <a href="http://archive.org" rel="nofollow noopener">archive.org</a> to dredge up <a href="http://web.archive.org/web/20130215184028/http://danhilltech.tumblr.com/post/16293051293/at-crashpadder-weve-been-working-on-a" rel="nofollow noopener">his old blog</a>.</p>
+<p>To save us time, I thought I’d quote the whole thing here for easier reference:</p>
+<blockquote>
+<h1>Some basics.</h1>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/a8b26950e2b0ada03e1afa26bd79de5a3cedda17.jpg" data-download-href="//community.source.institute/uploads/default/a8b26950e2b0ada03e1afa26bd79de5a3cedda17" title="marketplace-startups-lessons-leaned-6-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/a8b26950e2b0ada03e1afa26bd79de5a3cedda17.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/a8b26950e2b0ada03e1afa26bd79de5a3cedda17_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-6-728.jpg</span><span class="informations">728×546 47.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>Whilst others may have articulated this elsewhere, I’ve found there are essentially two distinct types of marketplace: ‘local’ and ‘non-local’. In a local marketplace, the supply and demand are necessarily both consumed within the same geography (city, town, neighbourhood); examples include TaskRabbit - the people doing the tasks live near those needing tasks done, Ecomodo - people borrow tools etc. off people near them; Kinderfee - people book a sitter who lives near them. Non-local marketplaces are the opposite; examples include Crashpadder/Airbnb - people use the service because they need accommodation elsewhere; Gidsy - people book because they don’t know the area. Some marketplaces operate irrespective of course: eBay - people either post or collect; MinuteBox - the value transfer takes place entirely online.</p>
+<p>The distinction is important. The ways you seed, grow and expand each is different. At Crashpadder we must seed a new geography in a highly localised way (London, say), and then get demand from everywhere/anywhere BUT London. Conversely, TaskRabbit would want to target both sides of the marketplace in a highly dense geography.</p>
+<p>Next, you need availability &amp; liquidity in your marketplace. This is the hard bit, especially early on in a market. We need available hosts that can be booked, and guests that are making bookings. The experience of a user, be they supply or demand, is only partly a function of your service; most of the experience is determined by the right volume of their opposite.</p>
+<p>The key therefore to understand in your business is that your job is only to facilitate value transfer, not create the value. You charge money for this service. The more value you transfer, the more money you make.</p>
+<p>So, understand the product you sell. eBay doesn’t sell second-hand goods, TaskRabbit doesn’t sell tasks and we don’t sell rooms. We sell trust. Our hosts sell rooms.</p>
+<h1>Chickens and eggs.</h1>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/c0604071e621c082d7514c06dd64c3ea9dec0e01.jpg" data-download-href="//community.source.institute/uploads/default/c0604071e621c082d7514c06dd64c3ea9dec0e01" title="marketplace-startups-lessons-leaned-7-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/c0604071e621c082d7514c06dd64c3ea9dec0e01.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/c0604071e621c082d7514c06dd64c3ea9dec0e01_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-7-728.jpg</span><span class="informations">728×546 142 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>Do I need a chicken or an egg? Should we get supply first, or demand. The answer is both. Success is being able to ramp up both sides proportionally. We’ve found it best to start in one geography and achieve scalable liquidity then rinse and repeat.</p>
+</blockquote>
+<p><img src="//community.source.institute/uploads/default/original/1X/c2edae036dc928f801b9e1d0e54ad4030c931796.jpg" alt width="320" height="240"></p>
+<blockquote>
+<p>Two techniques we’ve found powerful:</p>
+<p>A time critical event - find a reason why both sides of your marketplace are going to have to come together at the same point, giving you that initial liquidity. For example, the Olympics or Edinburgh Festival are great for us, as both sides concentrate their expectations and usage around the same window.</p>
+<p>An existing strong network, a niche - the trick here is to find a group of users on both sides who are willing to put the extra effort and time into waiting for full liquidity. For eBay, this might be stamp collectors - they’re willing to come back and try again until they get that one perfect stamp. Someone buying a HiFi would simply go somewhere else that does have liquidity (a high-street store).</p>
+</blockquote>
+<blockquote>
+<h1>Types of value</h1>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/a9dfe6f0a0c650d73f4b559b6188284021895ba2.jpg" data-download-href="//community.source.institute/uploads/default/a9dfe6f0a0c650d73f4b559b6188284021895ba2" title="marketplace-startups-lessons-leaned-11-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/a9dfe6f0a0c650d73f4b559b6188284021895ba2.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/a9dfe6f0a0c650d73f4b559b6188284021895ba2_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-11-728.jpg</span><span class="informations">728×546 41.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>Another important distinction between types of marketplace is between the types of value being sold: lasting vs one-time inventory. Lasting inventory you can reuse multiple times per listing, for example our rooms can be booked multiple times ad infinitum, baring unavailable periods. One-time inventory, for example goods on eBay, and only be consumed once, then you need to go back to square one and get more inventory. I think a large part of the success of the P2P accommodation model is due to the high value-to-supplier ratio compared with one-time inventory models.</p>
+<h1>Marketplace Half-life</h1>
+<p>This is something we began modelling a while ago, and has proved very powerful in predicting future behaviour.</p>
+<p><em>The half-life of your (lasting) inventory is the time it takes for it to half in value.</em></p>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/49d9309d888e3f1b35e79f33a4059e7bbe5c02bd.jpg" data-download-href="//community.source.institute/uploads/default/49d9309d888e3f1b35e79f33a4059e7bbe5c02bd" title="marketplace-startups-lessons-leaned-12-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/49d9309d888e3f1b35e79f33a4059e7bbe5c02bd.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/49d9309d888e3f1b35e79f33a4059e7bbe5c02bd_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-12-728.jpg</span><span class="informations">728×546 53.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>In our case, this is the time it takes for the likelihood of a new booking request to be accepted. If a host gets a booking every week (say), then they’re engaged, their availability is up-to-date, and we know we have a reliable method of contacting them. After a period of time, that same probability drops as they’ve not been engaged so not updated their availability, may have changed email address, may have gone elsewhere for bookings, and so on.</p>
+<p>Understanding your half-life allows you to balance the distribution of new bookings/guests effectively between first time users and repeat users. Each host has their own sweet-spot for bookings (every week, two weekends a month, every two months etc.), but when you hit it they’re yours.</p>
+<h1>Competition and Virality</h1>
+<p>There’s an inherent competition on either side of a marketplace. Either hosts are competing to get the (best) guests, or guests are competing to book the (best) hosts. If you can manage the level of competition on either side, you can cause both side to up their game. If our hosts see they’re moving down search results (but are still roughly within 1/2 half-life cycles) they’ll look at the new features and options to get them back up: maybe more photos, better descriptions or tagging, updating their calendar etc. Guests to likewise - they’ll provide more useful information about themselves, respond to messages quickly etc.</p>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/854f0dd73825072f35ab225d770f28781ca63998.jpg" data-download-href="//community.source.institute/uploads/default/854f0dd73825072f35ab225d770f28781ca63998" title="marketplace-startups-lessons-leaned-15-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/854f0dd73825072f35ab225d770f28781ca63998.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/854f0dd73825072f35ab225d770f28781ca63998_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-15-728.jpg</span><span class="informations">728×546 54.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>But. The side that’s competing generally won’t go viral or want to share your product or platform. A host that’s feeling a bit of competition to get bookings won’t want to tell their friends (who live in the same area, right?) about your service because that will only increase the competition they’re already facing. If they’re making more money that they know what to do with, they will. (Or if they’re essentially happily saturated).</p>
+<p>You also don’t want competition on price. If you push competition on the supply side to far, you might end up with people cutting prices. At that point they’re probably done with your service anyway and your marketplace is essentially broken (there’s NO demand), but you also earn less money. If the supply side starts lowering prices, look hard at what’s going on.</p>
+<h1>Marketplaces are cool</h1>
+</blockquote>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/84c54d162e805c889c5949f935fea65f2e540378.jpg" data-download-href="//community.source.institute/uploads/default/84c54d162e805c889c5949f935fea65f2e540378" title="marketplace-startups-lessons-leaned-16-728.jpg"><img src="//community.source.institute/uploads/default/original/1X/84c54d162e805c889c5949f935fea65f2e540378.jpg" alt width="666" height="500" data-small-upload="//community.source.institute/uploads/default/optimized/1X/84c54d162e805c889c5949f935fea65f2e540378_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">marketplace-startups-lessons-leaned-16-728.jpg</span><span class="informations">728×546 47.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>We’ve been running a marketplace for 3 years now. We were one of the first into the P2P accommodation space, and it’s a brilliant model. The high network effect (Metcalfe’s law) makes switching expensive and thus your supply defensible. The more reviews a host has, the more reviews they get, and the bigger the drop from starting again elsewhere. And what’s really nice is building a business on existing, underused, value. We’re not building hotels, but selling shovels. We allow others to get more value from the world.</p>
+</blockquote>
+<p>Dan was recently on the Seedcamp podcast, <a href="http://seedcamp.com/seedcamp-podcast-episode-28-dan-hill-product-lead-at-airbnb/" rel="nofollow noopener">talking about his experience</a>.</p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F206155579&amp;show_artwork=true&amp;maxheight=166" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe></p>
+<p>You can show Dan your appreciation on <a href="https://twitter.com/serenestudios" rel="nofollow noopener">Twitter</a> and follow his latest writing on <a href="https://medium.com/@danhilltech" rel="nofollow noopener">Medium</a>.</p>
+<hr>
+<p><em>Can you relate to the stories we told here? How is your experience different? We’d love to hear from you. Your questions and comments are what will help us make better lessons in the future.</em></p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/how-to-start-an-online-marketplace-from-airbnbs-director-of-product/281/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/how-to-start-an-online-marketplace-from-airbnbs-director-of-product/281/1</link>
+        <pubDate>Wed, 18 May 2016 07:14:54 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-281-1</guid>
+        <source url="https://community.source.institute/t/how-to-start-an-online-marketplace-from-airbnbs-director-of-product/281.rss">How to start an online marketplace from AirBnB&#39;s Director Of Product</source>
+      </item>
+  </channel>
+</rss>

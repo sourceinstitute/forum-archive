@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Event formats: using constraints to force better performance</title>
+    <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397</link>
+    <description>[Tobias Van Scheider](http://us5.campaign-archive1.com/?u=56217f3273816b2f6aa899689&amp;id=48930326c7) - a fun-loving hipster designer at Spotify, talks about tool lust and embracing constraints.  He argues that when you don&#39;t have all the best, fancy tools, your work becomes better.  And when you do have all the best, fancy tools, you need to create constraints.
+
+This gets me thinking of different event formats we could use to get different things done, not just for us, but as open formats we can share with educators around the world.
+
+&gt; The last five years I always participated in the Cannes Young Lions competition, an event by the Cannes Lions Festival. It works like this: On the date of the competition, you get a written briefing from a imaginary client telling you what problem to solve.
+&gt; 
+&gt; Then you have exactly 24 hours to do it. You are not allowed to ask any questions. 24 hours later you need to upload the deliverable. You are not even allowed to present your work, it has to speak for itself. (In my category &quot;Print Advertising&quot; your deliverable is a one page ad)
+&gt; 
+&gt; There are many reasons why a competition like this is amazing:
+&gt; 
+&gt; 1. You only have 24h, get your shit together.
+&gt; 
+&gt; 2. I don&#39;t even work in advertising. It&#39;s a completely new challenge for me.
+&gt; 
+&gt; 3. Limited time means you have to focus on the idea. There is just no time for time consuming execution. That&#39;s when you really learn that fancy Photoshop effects or 3D renderings are just distraction unless they ARE the idea. The same goes for writing beautiful code, no one cares.
+&gt; 
+&gt; 4. Learn to manage your time within just 24h. Don&#39;t forget to eat and sleep. Not sleeping might lead to poor decisions in the final hour. But sleeping also means, you lose time. What do you chose?
+&gt; 
+&gt; 5. You have to balance between what idea to execute. Should you do something that is good for the client, or the big bang that the judges will love to see? These might be two different ideas.
+&gt; 
+&gt; Constraints breed creativity. They force you to act, to move, think sharp and find a solution.
+&gt;
+
+Hackathons come to mind, but I challenge you to evolve that (now old) concept.   What kind of maker/doer/solver event formats can we think of that build in a specific constraint to push a better kind of outcome?</description>
+    
+    <lastBuildDate>Mon, 20 Jun 2016 09:17:51 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <p>will give my thoughts and comments</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/12</link>
+        <pubDate>Mon, 20 Jun 2016 09:17:51 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-12</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox githubcommit">
+  <header class="source">
+      <a href="https://github.com/leancamp/organisers-guide/commits/generalise" target="_blank" rel="nofollow noopener">github.com/leancamp/organisers-guide</a>
+  </header>
+  <article class="onebox-body">
+      <a href="https://github.com/saintsal" target="_blank" rel="nofollow noopener">
+    <img alt="saintsal" src="https://avatars1.githubusercontent.com/u/336890?v=4" class="thumbnail onebox-avatar" width="90" height="90">
+  </a>
+
+<h4>
+  <a href="https://github.com/leancamp/organisers-guide/commit/96a5b7a3b14e522894e9ffb29e16c1b0697c4a90" target="_blank" rel="nofollow noopener">images/copy for ambassador guide</a>
+</h4>
+
+
+<div class="date">
+  by <a href="https://github.com/saintsal" target="_blank" rel="nofollow noopener">saintsal</a>
+  on <a href="https://github.com/leancamp/organisers-guide/commit/96a5b7a3b14e522894e9ffb29e16c1b0697c4a90" target="_blank" rel="nofollow noopener">06:05AM - 23 Jun 16</a>
+</div>
+
+<div class="github-commit-stats">
+  changed <strong>6 files</strong>
+  with <strong>21 additions</strong>
+  and <strong>3 deletions</strong>.
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>That branch is where I’m reworking it so it’s about our style of inter-disciplinary unconferences, not just Leancamp.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/11</link>
+        <pubDate>Mon, 20 Jun 2016 09:14:30 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-11</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <p>nope, can you point me to it. And I’ll read/comment in my source dedicated time and maybe tonight <img src="//community.source.institute/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/10</link>
+        <pubDate>Mon, 20 Jun 2016 09:03:31 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-10</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>That sounds like a good fit for our way.  Have you read the Leancamp Guide?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/9</link>
+        <pubDate>Mon, 20 Jun 2016 08:51:41 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-9</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <p>not sure, maybe. but things goes like this - for them hackathon is just a part, event topic, scheduled thing (and it’s starting to be less and less atractive, at least in a way how hackathones looked like in last 5 years). and these people don’t think of this untill it’s almost time for hackathon. I’m talking about hackathons without or with small material prize, for big ones it’s easy.</p>
+<p>Let me give you example, one hub in serbia decided to make fintech hackathone, they got programmers, but somehow they skiped and totally forgot to get economy students, or economy people. So what happened… amazing code was written that by judges(bank, economy crew) is worth nothing since this is not how it works.</p>
+<p>So in the ene nothing usefull was made. Why? somebody forgot to make in advance promo and connect programmers and economy people. so two islands were without knowing about eachother</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/8</link>
+        <pubDate>Mon, 20 Jun 2016 00:10:39 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-8</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>A lot of our unconference guide focuses on finding balance between communities.  Think the organisers of those hackathons you mention felt that pain too?  Would it be worth sharing this with them?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/7</link>
+        <pubDate>Sun, 19 Jun 2016 14:26:59 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-7</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="5" data-topic="397">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="//community.source.institute/user_avatar/community.source.institute/salim/40/19_1.png" class="avatar"> salim:</div>
+<blockquote>
+<p>The post then lists out a bunch of tips for attracting non-coders to hackathons, and links to a few guides.</p>
+</blockquote>
+</aside>
+<p>about that. At least on all hackathons that I was part of problem was that there were enough programers but too many non programmers, so then these(non programmers) people didn’t had great experience.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/6</link>
+        <pubDate>Sun, 19 Jun 2016 12:10:40 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-6</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>This is <a href="https://18f.gsa.gov/2015/04/21/hackathons-not-just-for-folks-who-code/">a nice viewpoint from a content person at a government hackathon</a>: &gt;</p>
+<blockquote>
+<p>I was afraid I wasn’t offering that much. “Now, if anyone had any content needs,” I said, trailing off and looking meaningfully into the distance.</p>
+<p>Keeping in mind our intended audience (people involved in the acquisition and procurement processes) and desired tone (professional, reassuring, and a hair more casual than formal), we set to work crafting the copy for a new front page.</p>
+<p>One of the most invigorating aspects of content design is to take an idea — half-baked or fully formed — and, with that idea as inspiration, rapidly generate an entire body of copy. Be that text a new front page for a government grocurement tool or the draft of a prose poem, the thrill exists unfettered.</p>
+<p>Perhaps my favorite part of this anecdote is that Brad’s and my experience is far from unique: Everywhere you go, you’ll find talented salespeople, marketers, and content designers and strategists eager to lend their skills to the cause of civic good. The primary hurdles hackathon organizers face are recruiting these folks and making them feel at home. Fortunately, these hurdles are easily cleared with the right mindset and approach.</p>
+</blockquote>
+<p>The post then lists out a bunch of tips for attracting non-coders to hackathons, and links to a few guides.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/5</link>
+        <pubDate>Sun, 19 Jun 2016 12:00:07 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-5</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <p>like it. hard part is that maybe there are some changes based on “sprint” is it code, marketing. writing, sales, pipleine etc. so what I want to say that I guess test needs to be done based on what kind of project team is working on. I would like to to smth like this for next camp. like to structure it like this from start <img src="//community.source.institute/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/4</link>
+        <pubDate>Thu, 16 Jun 2016 11:43:47 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-4</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>This reminds me of a format I tried with <a class="mention" href="/u/jansn">@jansn</a> back in the day.</p>
+<p>Basically, it was a startup weekend but with mentors only.  So the mentors would have their individual startup projects, and have peer-support of other mentor-calibre people with different skills.</p>
+<p>Each had their own braintrust and the rule was you had to braintrust and pivot every 4 hours.  (You’d call a personal 8-minute braintrust session on-demand.)  Everyone was there as support for the others and could be pulled in. The pivoting needed some policing (refering to the time-keeper person) and each pivot was logged on a simple sticky-note dashboard.</p>
+<p>It’s how I launched Signally.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/3</link>
+        <pubDate>Thu, 16 Jun 2016 11:41:04 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-3</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@ncerovac Nemanja]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/ncerovac">@ncerovac</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="1" data-topic="397">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="//community.source.institute/user_avatar/community.source.institute/salim/40/19_1.png" class="avatar"> salim:</div>
+<blockquote>
+<p>Hackathons come to mind, but I challenge you to evolve that (now old) concept.   What kind of maker/doer/solver event formats can we think of that build in a specific constraint to push a better kind of outcome?</p>
+</blockquote>
+</aside>
+<p>because of my engineering background, I love concept of hackathons.</p>
+<p>As for other ideas, it looks like this. if you organise few days event such as camp, constraint can be offline hours. how it works? Whole team needs to shut down all communication software and hardware for few hours and be focused on thing that we are working on. on every N hours you have 30 mins of your addictiveness called soc. media, communication etc.</p>
+<p>so its more set of rules. Maybe blacklist all websites that are not helping etc. Think that it needs half day of prep, then 30 mins of doing that to all participants and then heaven <img src="//community.source.institute/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"> also how I would structure it.</p>
+<p>So some people that particiate have one more role and really needs to push for it.</p>
+<p><strong>Time/effectivness person</strong> - keep track of time an how efective things are going, are we going in circles or we are getting somewhere.</p>
+<p><strong>Wrap up person</strong> - for each part of discussion (either functionalities, process, idea, any logical chunk) that person is writing down all of important things on sticki notes, and at end of that part sprint does the wrap up with actions, ddl that we need to take. This person is also in charge to bug others for actions and ddls</p>
+<p><strong>Do you need help or anything person</strong> - one person that acts like PM, except his part of work, he needs to check if others are stuck in something and how they can help, do they need anybody.</p>
+<p>for sure there should be more roles there, such as energy level person to keep it up and pay attention on peole</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/2</link>
+        <pubDate>Thu, 16 Jun 2016 11:22:53 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-2</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+      <item>
+        <title>Event formats: using constraints to force better performance</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://us5.campaign-archive1.com/?u=56217f3273816b2f6aa899689&amp;id=48930326c7">Tobias Van Scheider</a> - a fun-loving hipster designer at Spotify, talks about tool lust and embracing constraints.  He argues that when you don’t have all the best, fancy tools, your work becomes better.  And when you do have all the best, fancy tools, you need to create constraints.</p>
+<p>This gets me thinking of different event formats we could use to get different things done, not just for us, but as open formats we can share with educators around the world.</p>
+<blockquote>
+<p>The last five years I always participated in the Cannes Young Lions competition, an event by the Cannes Lions Festival. It works like this: On the date of the competition, you get a written briefing from a imaginary client telling you what problem to solve.</p>
+<p>Then you have exactly 24 hours to do it. You are not allowed to ask any questions. 24 hours later you need to upload the deliverable. You are not even allowed to present your work, it has to speak for itself. (In my category “Print Advertising” your deliverable is a one page ad)</p>
+<p>There are many reasons why a competition like this is amazing:</p>
+<ol>
+<li>
+<p>You only have 24h, get your shit together.</p>
+</li>
+<li>
+<p>I don’t even work in advertising. It’s a completely new challenge for me.</p>
+</li>
+<li>
+<p>Limited time means you have to focus on the idea. There is just no time for time consuming execution. That’s when you really learn that fancy Photoshop effects or 3D renderings are just distraction unless they ARE the idea. The same goes for writing beautiful code, no one cares.</p>
+</li>
+<li>
+<p>Learn to manage your time within just 24h. Don’t forget to eat and sleep. Not sleeping might lead to poor decisions in the final hour. But sleeping also means, you lose time. What do you chose?</p>
+</li>
+<li>
+<p>You have to balance between what idea to execute. Should you do something that is good for the client, or the big bang that the judges will love to see? These might be two different ideas.</p>
+</li>
+</ol>
+<p>Constraints breed creativity. They force you to act, to move, think sharp and find a solution.</p>
+</blockquote>
+<p>Hackathons come to mind, but I challenge you to evolve that (now old) concept.   What kind of maker/doer/solver event formats can we think of that build in a specific constraint to push a better kind of outcome?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397/1</link>
+        <pubDate>Wed, 15 Jun 2016 18:24:11 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-397-1</guid>
+        <source url="https://community.source.institute/t/event-formats-using-constraints-to-force-better-performance/397.rss">Event formats: using constraints to force better performance</source>
+      </item>
+  </channel>
+</rss>

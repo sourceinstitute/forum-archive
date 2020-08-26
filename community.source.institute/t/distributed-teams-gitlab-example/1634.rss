@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Distributed teams: GitLab example</title>
+    <link>https://community.source.institute/t/distributed-teams-gitlab-example/1634</link>
+    <description>https://blog.ycombinator.com/gitlab-distributed-startup/
+
+&gt; 2:41 – GitLab values boring solutions: our product should be exceptional, but the company structure should be run-of-the-mill.
+
+&gt; 3:46 – Take an extra minute to write things down, so that you can save time and give people the tools they need to succeed. Everything from who starts a video conference, to OKRs for the whole company.
+
+&gt; 8:28 – What has been the most difficult part about building a company this way? Fundraising. It was difficult to convince investors that GitLab could continue to scale the completely distributed company. They kept hearing, “You tick all of our boxes, except for this remote thing. That’s new and we can’t take a risk.”</description>
+    
+    <lastBuildDate>Mon, 13 Feb 2017 03:03:49 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/distributed-teams-gitlab-example/1634.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Distributed teams: GitLab example</title>
+        <dc:creator><![CDATA[@lino Lino Velev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/lino">@lino</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/favicon.ico" class="site-icon" width="256" height="256">
+      <a href="https://blog.ycombinator.com/gitlab-distributed-startup/" target="_blank" rel="nofollow noopener">Y Combinator</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://blog.ycombinator.com/wp-content/uploads/2017/01/Gitlabs-Secret-to-Having-160-Employees-in-160-Locations.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://blog.ycombinator.com/gitlab-distributed-startup/" target="_blank" rel="nofollow noopener">GitLab's Secret to Managing 160 Employees in 160 Locations</a></h3>
+
+<p>Ali Rowghani, head of YC Continuity, talks to Gitlab CEO Sid Sijbrandij (W15) about how Gitlab has built a completely distributed company with 160 people (and growing). Sid's biggest tip for success in scaling a distributed company: write everything...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<blockquote>
+<p>2:41 – GitLab values boring solutions: our product should be exceptional, but the company structure should be run-of-the-mill.</p>
+</blockquote>
+<blockquote>
+<p>3:46 – Take an extra minute to write things down, so that you can save time and give people the tools they need to succeed. Everything from who starts a video conference, to OKRs for the whole company.</p>
+</blockquote>
+<blockquote>
+<p>8:28 – What has been the most difficult part about building a company this way? Fundraising. It was difficult to convince investors that GitLab could continue to scale the completely distributed company. They kept hearing, “You tick all of our boxes, except for this remote thing. That’s new and we can’t take a risk.”</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/distributed-teams-gitlab-example/1634/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/distributed-teams-gitlab-example/1634/1</link>
+        <pubDate>Mon, 13 Feb 2017 03:03:49 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-1634-1</guid>
+        <source url="https://community.source.institute/t/distributed-teams-gitlab-example/1634.rss">Distributed teams: GitLab example</source>
+      </item>
+  </channel>
+</rss>

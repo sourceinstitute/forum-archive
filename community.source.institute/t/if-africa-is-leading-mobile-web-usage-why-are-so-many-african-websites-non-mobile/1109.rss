@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>If Africa is leading mobile web usage, why are so many African websites non-mobile?</title>
+    <link>https://community.source.institute/t/if-africa-is-leading-mobile-web-usage-why-are-so-many-african-websites-non-mobile/1109</link>
+    <description>https://twitter.com/kajsaha/status/793749536908910592
+
+This is worth unpacking.  There&#39;s likely a constructive, and easy, response to this that can break the pattern.
+
+# Are the people leading the mobile web consumption shift leading the mobile web production shift?
+
+Africa and Asia have been [leading the shift to mobile for years](http://www.salimvirani.com/the-rules-changed/), while North Americans have scratched their head to reconcile the macroscopic &quot;mobile is coming&quot; stats with their own usage behaviour.  Their assumptions have been the same for years, that the rest of the world uses the internet like them - mainly on their laptops with supplementary usage on their phones.  There&#39;s very little realisation that the median internet user is one that *only* accesses the internet via a small touchscreen.  Even after years, Medium, Google Maps, Basecamp, and most of the other big guys all have mobile apps that a limited - designed for someone who mainly works on their laptop.
+
+# &quot;TIA?&quot;
+Last year,  I was in in Nairobi running Source Summit. I built the web site for it from scratch, mobile-first, responsive and lightweight vanilla HTML -- but still slow for some reason.  Like 10 seconds to load.
+
+When I asked about that around iHub, to the some of the brightest techie minds in Nairobi, I mainly got a shrug and &quot;TIA.&quot;  This Is Africa.  It&#39;s just how it is.  Sites are slow here. Maybe I should try moving from a US web server to an Indian one - that&#39;s closer to Kenya...
+
+I couldn&#39;t just accept TIA as an answer. We investigated further, and and found that Google Fonts and another CDN were lagging.  For some reason, the local ISP wasn&#39;t caching DNS, so the fix was simply host those files on my US server. 
+
+Turns out the Google Fonts servers weren&#39;t made with Africa in mind.  Dropping them, the site loaded instantly.
+
+# User-centered design
+
+Over in Nigeria, Opemipo,makes a [compelling case for usability testing](https://medium.com/@fathermerry/ive-also-fucked-up-as-a-designer-861945e9f642#.6o4jdukqg):
+
+&gt; Over the past few weeks, I’ve mused about the fact that most of us in the Nigerian “tech ecosystem” build products for our peers and know nothing about the average Nigerian. Yes, me sef. I realize that to design the future of payments here, I can’t remain in that thinking. I need to go out there to learn, understand the habits of my people and how to reach them.  
+
+And setting out to do so, he discovered some simple but major improvements quite quickly.
+
+Before: looks great by international standards, or does it?
+&lt;img src=&#39;/uploads/default/original/1X/b05d265dc01bcd581a158986a6ecbd18a19f3cae.png&#39;&gt;
+
+After: a few more helpers, and importantly, a padlock to indicate it&#39;s secure.
+&lt;img src=&#39;/uploads/default/original/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2.png&#39;&gt;
+
+&gt; No shit, I believe we can all design our way to market penetration (as against fight over the small share of the internet Facebook left for us). We just need to be more invested in understanding the whys, and also willing to document, share and learn from going all out.
+
+# What works there doesn&#39;t work here
+
+There are so many similar issues that won&#39;t surprise most African techies.. Lazy-loading - that thing that sites do to make those pages scroll endlessly - that requires a lot of back-and-forth between your phone and the web server.  In North America and Western Europe, that back-and-forth happens in less than a tenth of a second, but from mainland Africa, that&#39;s 1 second or more.  And if you run that over a secure connection, multiply that by 3.    
+
+Look around a co-working space in Nairobi or Accra, and the most powerful devices you&#39;ll see are phones, not laptops.  Anything that uses big javascript libraries runs slow on those laptops.  So phones, not laptops, tend to be people&#39;s main device.  
+
+Most Northern web programmers, sitting in a hipster coffee shop on a 1MB/s fibre internet connection while complaining on Twitter about their Macbooks, they can easily just do a bunch of cool stuff with multiple lazy-loads and javascript and the cool web thingy they made will still be super fast.  But for Africa, that thing will now take 10-30 seconds to load.  Not so cool.
+
+And that&#39;s following &quot;best practices.&quot;
+
+And those techniques are what are taught to developers around the world, including Africa.
+
+# Is it a question of not knowing or not doing?
+
+So looking back to Kasja&#39;s observation, that most locally made websites are not mobile, even though most website users are mobile, we&#39;re lead to another question:  Why aren&#39;t African web designers learning from Opemipo instead of Google?
+
+So there&#39;s renationalised technical know-how, and there&#39;s usability know-how.  Both would help and both are lacking.
+
+# Is there an education solution, or is this about something else?
+
+I&#39;d like to unpack this.  As an educator, I&#39;d like to understand the underlying reasons and attitudes that enable this situation.  I&#39;d love it if it were as simple as a free online course on building for Africa&#39;s mobile web, but somehow I don&#39;t think it&#39;s that easy.  Still, if we share insights maybe some other simple solutions could reveal themselves...
+
+Whether it&#39;s learning more relevant technology approaches for Africa, or learning that usability testing is part of the job, we still somehow come to the same disconnect.  The more sophisticated web developers, like Opemipo, other the people at iHub or MEST, they already know this stuff, and yet so many still don&#39;t practice it - why is that?
+
+And then there are the web designers that serve African small businesses, still pushing out sites for the desktop web.  Why is that?
+
+I&#39;d love your thoughts here, if you&#39;re willing to share.  This seems like something we can all fix.  And with tremendous benefits.</description>
+    
+    <lastBuildDate>Thu, 03 Nov 2016 08:16:31 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/if-africa-is-leading-mobile-web-usage-why-are-so-many-african-websites-non-mobile/1109.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>If Africa is leading mobile web usage, why are so many African websites non-mobile?</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox twitterstatus">
+  <header class="source">
+      <a href="https://twitter.com/kajsaha/status/793749536908910592" target="_blank" rel="nofollow noopener">twitter.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://pbs.twimg.com/profile_images/923835681553768448/ldjK8HR8_400x400.jpg" class="thumbnail onebox-avatar" width="299" height="299">
+<h4>
+  <a href="https://twitter.com/kajsaha/status/793749536908910592" target="_blank" rel="nofollow noopener">
+    Kajsa Hallberg Adu (kajsaha)
+  </a>
+</h4>
+
+<div class="tweet">Did You know almost 8/10 Ghanaians use their phone to get online? Sadly few government + university websites are small screen friendly. ☹️</div>
+
+<div class="date">
+  <a href="https://twitter.com/kajsaha/status/793749536908910592" target="_blank" rel="nofollow noopener">02:40 - 2. Nov. 2016</a>
+    <span class="like">
+      <svg viewbox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg> 12
+    </span>
+    <span class="retweet">
+      <svg viewbox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg> 9
+    </span>
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>This is worth unpacking.  There’s likely a constructive, and easy, response to this that can break the pattern.</p>
+<h1>Are the people leading the mobile web consumption shift leading the mobile web production shift?</h1>
+<p>Africa and Asia have been <a href="http://www.salimvirani.com/the-rules-changed/" rel="nofollow noopener">leading the shift to mobile for years</a>, while North Americans have scratched their head to reconcile the macroscopic “mobile is coming” stats with their own usage behaviour.  Their assumptions have been the same for years, that the rest of the world uses the internet like them - mainly on their laptops with supplementary usage on their phones.  There’s very little realisation that the median internet user is one that <em>only</em> accesses the internet via a small touchscreen.  Even after years, Medium, Google Maps, Basecamp, and most of the other big guys all have mobile apps that a limited - designed for someone who mainly works on their laptop.</p>
+<h1>“TIA?”</h1>
+<p>Last year,  I was in in Nairobi running Source Summit. I built the web site for it from scratch, mobile-first, responsive and lightweight vanilla HTML – but still slow for some reason.  Like 10 seconds to load.</p>
+<p>When I asked about that around iHub, to the some of the brightest techie minds in Nairobi, I mainly got a shrug and “TIA.”  This Is Africa.  It’s just how it is.  Sites are slow here. Maybe I should try moving from a US web server to an Indian one - that’s closer to Kenya…</p>
+<p>I couldn’t just accept TIA as an answer. We investigated further, and and found that Google Fonts and another CDN were lagging.  For some reason, the local ISP wasn’t caching DNS, so the fix was simply host those files on my US server.</p>
+<p>Turns out the Google Fonts servers weren’t made with Africa in mind.  Dropping them, the site loaded instantly.</p>
+<h1>User-centered design</h1>
+<p>Over in Nigeria, Opemipo,makes a <a href="https://medium.com/@fathermerry/ive-also-fucked-up-as-a-designer-861945e9f642#.6o4jdukqg" rel="nofollow noopener">compelling case for usability testing</a>:</p>
+<blockquote>
+<p>Over the past few weeks, I’ve mused about the fact that most of us in the Nigerian “tech ecosystem” build products for our peers and know nothing about the average Nigerian. Yes, me sef. I realize that to design the future of payments here, I can’t remain in that thinking. I need to go out there to learn, understand the habits of my people and how to reach them.</p>
+</blockquote>
+<p>And setting out to do so, he discovered some simple but major improvements quite quickly.</p>
+<p>Before: looks great by international standards, or does it?<br>
+<img src="//community.source.institute/uploads/default/original/1X/b05d265dc01bcd581a158986a6ecbd18a19f3cae.png" width="389" height="456"></p>
+<p>After: a few more helpers, and importantly, a padlock to indicate it’s secure.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2.png" data-download-href="//community.source.institute/uploads/default/caa31c6c28301a01b50e1d77d07fd202347c53e2" title="1*7h7dnlagcnDWWdo0_gT9_Q.png"><img src="//community.source.institute/uploads/default/optimized/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2_2_389x500.png" width="389" height="500" srcset="//community.source.institute/uploads/default/optimized/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2_2_389x500.png, //community.source.institute/uploads/default/optimized/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2_2_583x750.png 1.5x, //community.source.institute/uploads/default/optimized/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2_2_778x1000.png 2x" data-small-upload="//community.source.institute/uploads/default/optimized/1X/caa31c6c28301a01b50e1d77d07fd202347c53e2_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">1*7h7dnlagcnDWWdo0_gT9_Q.png</span><span class="informations">844×1084 43.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<blockquote>
+<p>No shit, I believe we can all design our way to market penetration (as against fight over the small share of the internet Facebook left for us). We just need to be more invested in understanding the whys, and also willing to document, share and learn from going all out.</p>
+</blockquote>
+<h1>What works there doesn’t work here</h1>
+<p>There are so many similar issues that won’t surprise most African techies… Lazy-loading - that thing that sites do to make those pages scroll endlessly - that requires a lot of back-and-forth between your phone and the web server.  In North America and Western Europe, that back-and-forth happens in less than a tenth of a second, but from mainland Africa, that’s 1 second or more.  And if you run that over a secure connection, multiply that by 3.</p>
+<p>Look around a co-working space in Nairobi or Accra, and the most powerful devices you’ll see are phones, not laptops.  Anything that uses big javascript libraries runs slow on those laptops.  So phones, not laptops, tend to be people’s main device.</p>
+<p>Most Northern web programmers, sitting in a hipster coffee shop on a 1MB/s fibre internet connection while complaining on Twitter about their Macbooks, they can easily just do a bunch of cool stuff with multiple lazy-loads and javascript and the cool web thingy they made will still be super fast.  But for Africa, that thing will now take 10-30 seconds to load.  Not so cool.</p>
+<p>And that’s following “best practices.”</p>
+<p>And those techniques are what are taught to developers around the world, including Africa.</p>
+<h1>Is it a question of not knowing or not doing?</h1>
+<p>So looking back to Kasja’s observation, that most locally made websites are not mobile, even though most website users are mobile, we’re lead to another question:  Why aren’t African web designers learning from Opemipo instead of Google?</p>
+<p>So there’s renationalised technical know-how, and there’s usability know-how.  Both would help and both are lacking.</p>
+<h1>Is there an education solution, or is this about something else?</h1>
+<p>I’d like to unpack this.  As an educator, I’d like to understand the underlying reasons and attitudes that enable this situation.  I’d love it if it were as simple as a free online course on building for Africa’s mobile web, but somehow I don’t think it’s that easy.  Still, if we share insights maybe some other simple solutions could reveal themselves…</p>
+<p>Whether it’s learning more relevant technology approaches for Africa, or learning that usability testing is part of the job, we still somehow come to the same disconnect.  The more sophisticated web developers, like Opemipo, other the people at iHub or MEST, they already know this stuff, and yet so many still don’t practice it - why is that?</p>
+<p>And then there are the web designers that serve African small businesses, still pushing out sites for the desktop web.  Why is that?</p>
+<p>I’d love your thoughts here, if you’re willing to share.  This seems like something we can all fix.  And with tremendous benefits.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/if-africa-is-leading-mobile-web-usage-why-are-so-many-african-websites-non-mobile/1109/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/if-africa-is-leading-mobile-web-usage-why-are-so-many-african-websites-non-mobile/1109/1</link>
+        <pubDate>Thu, 03 Nov 2016 07:29:22 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-1109-1</guid>
+        <source url="https://community.source.institute/t/if-africa-is-leading-mobile-web-usage-why-are-so-many-african-websites-non-mobile/1109.rss">If Africa is leading mobile web usage, why are so many African websites non-mobile?</source>
+      </item>
+  </channel>
+</rss>

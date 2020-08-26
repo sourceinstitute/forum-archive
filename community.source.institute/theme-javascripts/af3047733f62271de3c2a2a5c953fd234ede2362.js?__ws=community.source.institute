@@ -1,0 +1,19 @@
+
+  Discourse.ExternalNavItem = Discourse.NavItem.extend({
+    href : function() {
+      return this.get('href');
+    }.property('href')
+  });
+
+  I18n.translations.en.js.filters.about = { title: "About Source", help: "Learn more about Source Institute" };
+
+  Discourse.NavItem.reopenClass({
+    buildList : function(category, args) {
+      var list = this._super(category, args);
+      if(!category) {
+        list.unshift(Discourse.ExternalNavItem.create({href: 'http://source.institute', name: 'about'}));
+      }
+      return list;
+    }
+  });
+

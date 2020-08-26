@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What Uber&#39;s teaching me about market entry</title>
+    <link>https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108</link>
+    <description>Let&#39;s start with how [Uber handled January&#39;s sharp drop in Nigeria&#39;s Naira](http://techcabal.com/2016/01/08/those-crazy-uber-lagos-charges-are-not-ubers-fault/) following the drop in crude oil prices:
+&gt; One of them, is the price people are willing to pay for the Nigerian Naira (black market rates), which reflects its true value, and the other price is the one the CBN is pretending represents the Naira’s value (official rates).
+
+&gt;What on earth does this have to do with a transportation network company?
+
+&gt; Recently, users of the service started noticing discrepancies between their service charge, as reported by the Uber app, and the debit-card deductions reported by their respective banks.
+
+So Uber deployed a cash payment option which they&#39;d tested in Hyderabad, then Nairobi. When the dust settled in Nigeria, they [introduced credit card payments](http://techcabal.com/2016/03/25/uber-in-lagos-says-you-can-pay-with-your-debit-cards-again/).
+
+&quot;Oh wow! Credit card!&quot; I hear you mocking.  Except this is Nigeria, the country that [Paypal excluded](http://oonwoye.com/2011/01/23/life-as-a-second-class-citizen-of-the-web/) completely until 2014.  
+
+Uber reacted quickly to the Naira drop, and came out ahead - in one of the toughest markets in the world when it comes to collecting money digitally.
+
+Meanwhile, in China which is proving to the be [the world&#39;s early-adopter market for consumer Fintech](http://community.source.institute/t/the-fintech-leader-of-the-world-is-china/98), Uber&#39;s actively engaged in the online payments war, rolling out [Alipay and Baidu Wallet](http://www.beijing-kids.com/blog/Sisi-Chen/2015/07/22/How-to-Use-Baidu-Wallet-for-Uber-Payments) options.  
+
+Uber&#39;s growth has clearly been execution focused, learning as it goes, and adapting to local markets.
+
+I&#39;m reminded of [Nick Imrie](https://twitter.com/nickimrie)&#39;s comment to me over a few beers, years ago:
+&gt; We used to have Lean Startup, we just called it &quot;execution.&quot;
+
+Uber executes on different options for different markets.  Execution flushes up challenges, which directs learning.  Launch fast, and iterate, right?  Not quite.  That implies linear execution. As Uber shows us, the solutions to those challenges transcend markets. Their execution is parallel.
+
+There&#39;s an important distinction between this and the typical nail-it-then-scale-it approach that we&#39;ve seen from US startups growing beyond their national borders.  In most of those cases, by the time they&#39;re going international, they&#39;re executing on a US playbook that doesn&#39;t work well in other places.  Hence, they tend to grow by acquiring their international competitors.  
+
+Uber is executing in different markets, starting with playbooks from closer markets, then adapting them and sharing what works across markets. Their execution includes learning, and sharing that learning horizontally.</description>
+    
+    <lastBuildDate>Sat, 18 Jun 2016 07:20:01 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What Uber&#39;s teaching me about market entry</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="3" data-topic="108">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="//community.source.institute/user_avatar/community.source.institute/bart/40/23_1.png" class="avatar"> bart:</div>
+<blockquote>
+<p>They seem to be all over the place in figuring out their business model. Everything is different!</p>
+</blockquote>
+</aside>
+<blockquote>
+<p>Uber decided on a China strategy that was unlike anything it had tried elsewhere. It would set up a separate Chinese entity, Uber China, which would court local investors as well as getting financial support from the global Uber business, which holds a large undisclosed stake in the subsidiary. The hope was that a Chinese company could avoid some of the restrictions faced by foreign businesses.</p>
+</blockquote>
+<p>Plus, they changed their tech in China since Google’s not there.</p>
+<p>I reckon their anti-fraud systems developed in China are going to be deployed elsewhere, just like they took their payment system from India to solve a Nigerian problem.  It’s like Uber’s modular and has distributed leadership- but there’s no evidence they use squads or SOA or anything like that.</p>
+<p>It’s a good example of how the business-model-then-scale idiom is fallacy in international business.  It works for VC-backed companies who optimise for a big homogenous markets,  but Uber’s bigger than that.</p>
+<p>I agree - I’d love to interview someone there and find out how they do it.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/4</link>
+        <pubDate>Sat, 18 Jun 2016 07:20:01 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-108-4</guid>
+        <source url="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108.rss">What Uber&#39;s teaching me about market entry</source>
+      </item>
+      <item>
+        <title>What Uber&#39;s teaching me about market entry</title>
+        <dc:creator><![CDATA[@bart Bart Doorneweert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/bart">@bart</a> wrote:</p>
+          <blockquote>
+              <p>I wonder how this case of <a href="https://ig.ft.com/sites/uber-in-china/">entry into China works in terms of learning.</a> They seem to be all over the place in figuring out their business model. Everything is different!</p>
+<p>Also, the interesting part is that Lyft has gone for a partnership model with Uber’s biggest competitor Didi. Partnership entry games don’t appear to be on Uber’s play list</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/3</link>
+        <pubDate>Sat, 18 Jun 2016 06:45:52 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-108-3</guid>
+        <source url="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108.rss">What Uber&#39;s teaching me about market entry</source>
+      </item>
+      <item>
+        <title>What Uber&#39;s teaching me about market entry</title>
+        <dc:creator><![CDATA[@bart Bart Doorneweert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/bart">@bart</a> wrote:</p>
+          <blockquote>
+              <p>This is very interesting, and surprising to me. I thought they would get stuck on their lack in ability to adapt to locally relevant factors that conflict with their business model. Would be cool to learn how they do it. How do they organise for that type of learning?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/2</link>
+        <pubDate>Mon, 04 Apr 2016 09:08:57 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-108-2</guid>
+        <source url="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108.rss">What Uber&#39;s teaching me about market entry</source>
+      </item>
+      <item>
+        <title>What Uber&#39;s teaching me about market entry</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>Let’s start with how <a href="http://techcabal.com/2016/01/08/those-crazy-uber-lagos-charges-are-not-ubers-fault/">Uber handled January’s sharp drop in Nigeria’s Naira</a> following the drop in crude oil prices:</p>
+<blockquote>
+<p>One of them, is the price people are willing to pay for the Nigerian Naira (black market rates), which reflects its true value, and the other price is the one the CBN is pretending represents the Naira’s value (official rates).</p>
+</blockquote>
+<blockquote>
+<p>What on earth does this have to do with a transportation network company?</p>
+</blockquote>
+<blockquote>
+<p>Recently, users of the service started noticing discrepancies between their service charge, as reported by the Uber app, and the debit-card deductions reported by their respective banks.</p>
+</blockquote>
+<p>So Uber deployed a cash payment option which they’d tested in Hyderabad, then Nairobi. When the dust settled in Nigeria, they <a href="http://techcabal.com/2016/03/25/uber-in-lagos-says-you-can-pay-with-your-debit-cards-again/">introduced credit card payments</a>.</p>
+<p>“Oh wow! Credit card!” I hear you mocking.  Except this is Nigeria, the country that <a href="http://oonwoye.com/2011/01/23/life-as-a-second-class-citizen-of-the-web/">Paypal excluded</a> completely until 2014.</p>
+<p>Uber reacted quickly to the Naira drop, and came out ahead - in one of the toughest markets in the world when it comes to collecting money digitally.</p>
+<p>Meanwhile, in China which is proving to the be <a href="//community.source.institute/t/the-fintech-leader-of-the-world-is-china/98">the world’s early-adopter market for consumer Fintech</a>, Uber’s actively engaged in the online payments war, rolling out <a href="http://www.beijing-kids.com/blog/Sisi-Chen/2015/07/22/How-to-Use-Baidu-Wallet-for-Uber-Payments">Alipay and Baidu Wallet</a> options.</p>
+<p>Uber’s growth has clearly been execution focused, learning as it goes, and adapting to local markets.</p>
+<p>I’m reminded of <a href="https://twitter.com/nickimrie">Nick Imrie</a>’s comment to me over a few beers, years ago:</p>
+<blockquote>
+<p>We used to have Lean Startup, we just called it “execution.”</p>
+</blockquote>
+<p>Uber executes on different options for different markets.  Execution flushes up challenges, which directs learning.  Launch fast, and iterate, right?  Not quite.  That implies linear execution. As Uber shows us, the solutions to those challenges transcend markets. Their execution is parallel.</p>
+<p>There’s an important distinction between this and the typical nail-it-then-scale-it approach that we’ve seen from US startups growing beyond their national borders.  In most of those cases, by the time they’re going international, they’re executing on a US playbook that doesn’t work well in other places.  Hence, they tend to grow by acquiring their international competitors.</p>
+<p>Uber is executing in different markets, starting with playbooks from closer markets, then adapting them and sharing what works across markets. Their execution includes learning, and sharing that learning horizontally.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108/1</link>
+        <pubDate>Sun, 03 Apr 2016 11:26:17 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-108-1</guid>
+        <source url="https://community.source.institute/t/what-ubers-teaching-me-about-market-entry/108.rss">What Uber&#39;s teaching me about market entry</source>
+      </item>
+  </channel>
+</rss>

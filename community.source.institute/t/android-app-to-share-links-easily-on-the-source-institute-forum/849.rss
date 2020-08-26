@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Android app to share links easily on the Source Institute forum</title>
+    <link>https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849</link>
+    <description>I&#39;ve noticed I tend to come across useful links on my phone, but there&#39;s no easy way to share them here, so I commissioned an Android app to make it easy.
+
+&lt;img src=&quot;/uploads/default/original/1X/b5a870c93b20810123b52773d2147b55cd9a6eba.png&quot; width=&quot;281&quot; height=&quot;500&quot;&gt;
+
+https://stuff.source.institute/index.php/s/IDN144mntNqxsyf
+
+This app simply adds &quot;Share On Source Institute&quot; to your android&#39;s share menu.  If you click it, it creates a draft post with the link and whatever you&#39;ve copied to your clipboard.
+
+My view is that if a link is worth sharing, it&#39;s worth adding at least a quick comment as to why it&#39;s worth reading and what you saw in it that&#39;s relevant.
+
+My hope is that if we share links on the forum, they are able to be read at a more convenient time (rather than be forgotten in the scroll back of Telegram groups), and that if a useful discussion comes up, it&#39;s in a place where we can all access it more easily.  
+
+This is a functional prototype, so if you use it, please let me know.  If this is useful, I can make an iOS version and also take your feedback to improve a future version.</description>
+    
+    <lastBuildDate>Tue, 08 Nov 2016 15:19:47 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Android app to share links easily on the Source Institute forum</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>Updated version - it now does better at reading in the title of the link you’re sharing, and it’ll automatically quote what’s in your clipboard.  So you can:</p>
+<ol>
+<li>Highlight and copy an interesting bit.</li>
+<li>Hit the share button</li>
+<li>Choose Share On Source Institute</li>
+</ol>
+<p><a href="https://stuff.source.institute/index.php/s/GUlR0NYCED4THIq" class="onebox" target="_blank">https://stuff.source.institute/index.php/s/GUlR0NYCED4THIq</a></p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849/2</link>
+        <pubDate>Tue, 08 Nov 2016 15:19:47 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-849-2</guid>
+        <source url="https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849.rss">Android app to share links easily on the Source Institute forum</source>
+      </item>
+      <item>
+        <title>Android app to share links easily on the Source Institute forum</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>I’ve noticed I tend to come across useful links on my phone, but there’s no easy way to share them here, so I commissioned an Android app to make it easy.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/b5a870c93b20810123b52773d2147b55cd9a6eba.png" data-download-href="//community.source.institute/uploads/default/b5a870c93b20810123b52773d2147b55cd9a6eba" title="tmp_30677-Screenshot_20160923-132039502323270.png"><img src="//community.source.institute/uploads/default/optimized/1X/b5a870c93b20810123b52773d2147b55cd9a6eba_2_281x500.png" width="281" height="500" srcset="//community.source.institute/uploads/default/optimized/1X/b5a870c93b20810123b52773d2147b55cd9a6eba_2_281x500.png, //community.source.institute/uploads/default/optimized/1X/b5a870c93b20810123b52773d2147b55cd9a6eba_2_421x750.png 1.5x, //community.source.institute/uploads/default/optimized/1X/b5a870c93b20810123b52773d2147b55cd9a6eba_2_562x1000.png 2x" data-small-upload="//community.source.institute/uploads/default/optimized/1X/b5a870c93b20810123b52773d2147b55cd9a6eba_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">tmp_30677-Screenshot_20160923-132039502323270.png</span><span class="informations">1440×2560 363 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><a href="https://stuff.source.institute/index.php/s/IDN144mntNqxsyf" class="onebox" target="_blank" rel="nofollow noopener">https://stuff.source.institute/index.php/s/IDN144mntNqxsyf</a></p>
+<p>This app simply adds “Share On Source Institute” to your android’s share menu.  If you click it, it creates a draft post with the link and whatever you’ve copied to your clipboard.</p>
+<p>My view is that if a link is worth sharing, it’s worth adding at least a quick comment as to why it’s worth reading and what you saw in it that’s relevant.</p>
+<p>My hope is that if we share links on the forum, they are able to be read at a more convenient time (rather than be forgotten in the scroll back of Telegram groups), and that if a useful discussion comes up, it’s in a place where we can all access it more easily.</p>
+<p>This is a functional prototype, so if you use it, please let me know.  If this is useful, I can make an iOS version and also take your feedback to improve a future version.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849/1</link>
+        <pubDate>Fri, 23 Sep 2016 09:46:38 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-849-1</guid>
+        <source url="https://community.source.institute/t/android-app-to-share-links-easily-on-the-source-institute-forum/849.rss">Android app to share links easily on the Source Institute forum</source>
+      </item>
+  </channel>
+</rss>

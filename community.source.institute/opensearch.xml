@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Source Institute Search</ShortName>
+  <Description>Search for posts on Source Institute</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://community.source.institute/uploads/default/optimized/1X/bbff99dcc5c2a37b51d819e1d278d280aae8eaa6_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://community.source.institute/opensearch.xml"/>
+  <Url type="text/html" template="https://community.source.institute/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

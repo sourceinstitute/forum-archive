@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>On Topic - a little tool I built for helping facilitators</title>
+    <link>https://community.source.institute/t/on-topic-a-little-tool-i-built-for-helping-facilitators/173</link>
+    <description>It&#39;s pretty simple.  Everyone sees the same screen, which shows the audience&#39;s wish on what to cover.  It&#39;s for moderated or self-moderated discussions, like fishbowls.
+
+Here&#39;s a prototype I built a few months ago: http://topic-56643.onmodulus.net/
+
+Like what&#39;s being said? Hit the heart.  The more people who hit it, the bigger it gets.
+Missed something and want to go back? Hit rewind.
+Bored and want to go forward? Hit forward. 
+
+All the buttons reflect the number of clickers in the past few seconds. (These need to be calibrated for audience size.)
+
+What do you think?</description>
+    
+    <lastBuildDate>Wed, 02 Nov 2016 07:32:49 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/on-topic-a-little-tool-i-built-for-helping-facilitators/173.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>On Topic - a little tool I built for helping facilitators</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>It’s pretty simple.  Everyone sees the same screen, which shows the audience’s wish on what to cover.  It’s for moderated or self-moderated discussions, like fishbowls.</p>
+<p>Here’s a prototype I built a few months ago: <a href="http://topic-56643.onmodulus.net/">http://topic-56643.onmodulus.net/</a></p>
+<p>Like what’s being said? Hit the heart.  The more people who hit it, the bigger it gets.<br>
+Missed something and want to go back? Hit rewind.<br>
+Bored and want to go forward? Hit forward.</p>
+<p>All the buttons reflect the number of clickers in the past few seconds. (These need to be calibrated for audience size.)</p>
+<p>What do you think?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/on-topic-a-little-tool-i-built-for-helping-facilitators/173/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/on-topic-a-little-tool-i-built-for-helping-facilitators/173/1</link>
+        <pubDate>Wed, 20 Apr 2016 14:16:19 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-173-1</guid>
+        <source url="https://community.source.institute/t/on-topic-a-little-tool-i-built-for-helping-facilitators/173.rss">On Topic - a little tool I built for helping facilitators</source>
+      </item>
+  </channel>
+</rss>

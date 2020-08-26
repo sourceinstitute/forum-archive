@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>P2P AI-run Companies</title>
+    <link>https://community.source.institute/t/p2p-ai-run-companies/94</link>
+    <description>@ncerovac pointed me to [BitNation](https://bitnation.co/), a startup that is packaging and branding a number of third-party services in the emerging [Distributed Autonomous Companies](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) industry.
+
+This is something to watch for P2P techniques.  In short DACs are companies which are managed by code, and operate via various P2P technologies, like marketplaces and cryptocurrencies.  The idea is that human invest in a mission, raise the valuation of the cryptocurrency which is awarded to entrepreneur-coders, who implement business logic to achieve that mission.  The code is deployed as a distributed system, like Bitcoin, and starts to employ human beings.
+
+I&#39;ll quote from [an Aeon essay on DACs](https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves) to explain:
+
+&gt;Once a core group of developers had outlined their mission and promoted the project in public, interested parties could buy [cryptoshares] in advance of the system’s deployment. Sufficient demand would fund the scripting of the DAC’s source code, and then the [cryptoshares] could be used to buy its services. And of course, [cryptoshares] could also be re-sold. Indeed, once the system is in place and successful, their value would increase substantially, a prospect that will incentivise early investors.
+
+These systems are envisioned to work like typical Internet intermediaries, like AirBnB or Uber, except they&#39;d be more open and business decisions would be handled by coded business rules or AI.  The essay explores [whether or not this is utopian or distopian](https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves), but from the perspective of P2P educators, I&#39;m interested in how such systems will collect and share information for, and instruct, their human employees.
+
+And there&#39;s interesting potential in relation to supporting entrepreneurs who aren&#39;t in the typical Western/startup hyped/investable categories:
+
+&gt; The open nature of DACs might allow those who were excluded from traditional entrepreneurial channels to gather capital support for their ideas. Imagine startups in developing countries, frictionlessly funded by international backers in roles somewhere between investors and philanthropists.</description>
+    
+    <lastBuildDate>Wed, 02 Nov 2016 07:36:22 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/p2p-ai-run-companies/94.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>P2P AI-run Companies</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/ncerovac">@ncerovac</a> pointed me to <a href="https://bitnation.co/">BitNation</a>, a startup that is packaging and branding a number of third-party services in the emerging <a href="https://en.wikipedia.org/wiki/Decentralized_autonomous_organization">Distributed Autonomous Companies</a> industry.</p>
+<p>This is something to watch for P2P techniques.  In short DACs are companies which are managed by code, and operate via various P2P technologies, like marketplaces and cryptocurrencies.  The idea is that human invest in a mission, raise the valuation of the cryptocurrency which is awarded to entrepreneur-coders, who implement business logic to achieve that mission.  The code is deployed as a distributed system, like Bitcoin, and starts to employ human beings.</p>
+<p>I’ll quote from <a href="https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves">an Aeon essay on DACs</a> to explain:</p>
+<blockquote>
+<p>Once a core group of developers had outlined their mission and promoted the project in public, interested parties could buy [cryptoshares] in advance of the system’s deployment. Sufficient demand would fund the scripting of the DAC’s source code, and then the [cryptoshares] could be used to buy its services. And of course, [cryptoshares] could also be re-sold. Indeed, once the system is in place and successful, their value would increase substantially, a prospect that will incentivise early investors.</p>
+</blockquote>
+<p>These systems are envisioned to work like typical Internet intermediaries, like AirBnB or Uber, except they’d be more open and business decisions would be handled by coded business rules or AI.  The essay explores <a href="https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves">whether or not this is utopian or distopian</a>, but from the perspective of P2P educators, I’m interested in how such systems will collect and share information for, and instruct, their human employees.</p>
+<p>And there’s interesting potential in relation to supporting entrepreneurs who aren’t in the typical Western/startup hyped/investable categories:</p>
+<blockquote>
+<p>The open nature of DACs might allow those who were excluded from traditional entrepreneurial channels to gather capital support for their ideas. Imagine startups in developing countries, frictionlessly funded by international backers in roles somewhere between investors and philanthropists.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/p2p-ai-run-companies/94/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/p2p-ai-run-companies/94/1</link>
+        <pubDate>Sat, 02 Apr 2016 10:27:19 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-94-1</guid>
+        <source url="https://community.source.institute/t/p2p-ai-run-companies/94.rss">P2P AI-run Companies</source>
+      </item>
+  </channel>
+</rss>

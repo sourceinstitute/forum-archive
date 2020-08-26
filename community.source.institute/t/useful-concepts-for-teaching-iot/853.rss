@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Useful concepts for teaching IoT</title>
+    <link>https://community.source.institute/t/useful-concepts-for-teaching-iot/853</link>
+    <description>@Uniquejosh Here&#39;s an oldie but a goodie from [Dave Gray&#39;s notes on ubicomp](https://www.flickr.com/photos/davegray/albums/72157625027602485):
+
+![](/uploads/default/original/1X/067963e2c72460ca9db68ad110501f9ba557f99f.jpg)
+
+The comments on each image are little blog posts, and hold clues to deep pockets of knowledge that will be useful for teaching IoT, like Sterling&#39;s concept of spimes.</description>
+    
+    <lastBuildDate>Wed, 02 Nov 2016 07:01:14 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/useful-concepts-for-teaching-iot/853.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Useful concepts for teaching IoT</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/uniquejosh">@Uniquejosh</a> Here’s an oldie but a goodie from <a href="https://www.flickr.com/photos/davegray/albums/72157625027602485" rel="nofollow noopener">Dave Gray’s notes on ubicomp</a>:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//community.source.institute/uploads/default/original/1X/067963e2c72460ca9db68ad110501f9ba557f99f.jpg" data-download-href="//community.source.institute/uploads/default/067963e2c72460ca9db68ad110501f9ba557f99f" title="5140417973_95f72ae5ee_b.jpg"><img src="//community.source.institute/uploads/default/optimized/1X/067963e2c72460ca9db68ad110501f9ba557f99f_2_690x459.jpg" alt width="690" height="459" srcset="//community.source.institute/uploads/default/optimized/1X/067963e2c72460ca9db68ad110501f9ba557f99f_2_690x459.jpg, //community.source.institute/uploads/default/original/1X/067963e2c72460ca9db68ad110501f9ba557f99f.jpg 1.5x, //community.source.institute/uploads/default/original/1X/067963e2c72460ca9db68ad110501f9ba557f99f.jpg 2x" data-small-upload="//community.source.institute/uploads/default/optimized/1X/067963e2c72460ca9db68ad110501f9ba557f99f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">5140417973_95f72ae5ee_b.jpg</span><span class="informations">880×586 131 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>The comments on each image are little blog posts, and hold clues to deep pockets of knowledge that will be useful for teaching IoT, like Sterling’s concept of spimes.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/useful-concepts-for-teaching-iot/853/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/useful-concepts-for-teaching-iot/853/1</link>
+        <pubDate>Fri, 23 Sep 2016 10:34:38 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-853-1</guid>
+        <source url="https://community.source.institute/t/useful-concepts-for-teaching-iot/853.rss">Useful concepts for teaching IoT</source>
+      </item>
+  </channel>
+</rss>

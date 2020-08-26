@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Sources Privacy Policy</title>
+    <link>https://community.source.institute/t/the-sources-privacy-policy/1579</link>
+    <description>We only store the data you volunteer to us, and we won&#39;t ever sell it.  And we don&#39;t share your personal data with anyone unless it&#39;s necessary to make our system work (like sending emails or hosting our website.)
+
+## The data we store
+
+When you sign up to The Sources, we need your email address so we can email you.   We also ask you some questions from time to time, and we save those answers.  If you log into our forum, we keep the data you add to your profile, and activity like your posts, likes, reads, hearts etc.
+
+## The data we share
+
+As a rule, we don&#39;t share your personal data with anyone, but to make our system work, we need to share it with some other companies.  We do our best to make sure they don&#39;t share it by choosing services which both anonymise your data and/or don&#39;t share it themselves.
+
+For example, to send you emails, we use a service called Drip.  To host our forum, we use a webhost called Digital Ocean. To see what&#39;s going on on our site, we use Google Analytics.  That means that some of your data gets stored by them on our behalf, as we are their customers.  
+
+## We&#39;re working on it
+This isn&#39;t perfect.  We&#39;re a startup and still depend on services like this, but as we grow, we run more and more of our systems with open-source software by ourselves, reducing our dependence on outside services.  Our goal is to arrive at a simple Privacy Policy, where we simply don&#39;t share any personal data.
+
+We&#39;ll update this as we go - you can always find the current privacy policy here.</description>
+    
+    <lastBuildDate>Wed, 01 Feb 2017 15:14:51 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/the-sources-privacy-policy/1579.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Sources Privacy Policy</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>We only store the data you volunteer to us, and we won’t ever sell it.  And we don’t share your personal data with anyone unless it’s necessary to make our system work (like sending emails or hosting our website.)</p>
+<h2>The data we store</h2>
+<p>When you sign up to The Sources, we need your email address so we can email you.   We also ask you some questions from time to time, and we save those answers.  If you log into our forum, we keep the data you add to your profile, and activity like your posts, likes, reads, hearts etc.</p>
+<h2>The data we share</h2>
+<p>As a rule, we don’t share your personal data with anyone, but to make our system work, we need to share it with some other companies.  We do our best to make sure they don’t share it by choosing services which both anonymise your data and/or don’t share it themselves.</p>
+<p>For example, to send you emails, we use a service called Drip.  To host our forum, we use a webhost called Digital Ocean. To see what’s going on on our site, we use Google Analytics.  That means that some of your data gets stored by them on our behalf, as we are their customers.</p>
+<h2>We’re working on it</h2>
+<p>This isn’t perfect.  We’re a startup and still depend on services like this, but as we grow, we run more and more of our systems with open-source software by ourselves, reducing our dependence on outside services.  Our goal is to arrive at a simple Privacy Policy, where we simply don’t share any personal data.</p>
+<p>We’ll update this as we go - you can always find the current privacy policy here.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/the-sources-privacy-policy/1579/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/the-sources-privacy-policy/1579/1</link>
+        <pubDate>Wed, 01 Feb 2017 15:14:51 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-1579-1</guid>
+        <source url="https://community.source.institute/t/the-sources-privacy-policy/1579.rss">The Sources Privacy Policy</source>
+      </item>
+  </channel>
+</rss>

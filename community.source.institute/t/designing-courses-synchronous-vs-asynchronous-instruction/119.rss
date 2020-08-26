@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Designing courses: Synchronous vs. Asynchronous Instruction</title>
+    <link>https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119</link>
+    <description>&gt; Synchronous instruction is generally teacher-led and focuses on giving information required for the next upcoming lessons. This is also an opportunity to generate discussion between student and teacher to clarify any uncertainty of the material. 
+
+&gt;Asynchronous instruction is a student-centered lesson where they require little help from a trained instructor to learn the material. Many times students will collaborate with others to help complete the lesson learned. 
+
+
+-- from [Digital Nomad Education](https://medium.com/@Digitalnomadeducation/synchronous-vs-asynchronous-instruction-d9c2f8b63b80#.j56jz7f8u)
+
+This is a nice distinction in education design, that applies online and in-person.  It gives us some simple design rules to use:
+
+## Keeping the soldiers marching in a row
+
+In person, we need to lock-step the whole class at each major learning objective before moving on.  If somebody didn&#39;t get it, then we need to know now since their confusion will compound later, and hold the class back.  In-person, we can ask some open-ended questions to the room and scan for quizzical or frustrated facial expressions.  Online, it needs to be done with smaller modules, but this sync/async divide can address this at a structural level.
+
+## Learning through application, and collaboration
+The shift to asynchronous learning also means the shift towards self-directed learning.  This is where practicalities come in, and where peer-to-peer support takes hold.  The teacher&#39;s role here shifts to a support, and the learner&#39;s habits are developed: to play and try on their own, and to turn to their peers when they&#39;re stuck.</description>
+    
+    <lastBuildDate>Fri, 08 Apr 2016 09:23:04 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Designing courses: Synchronous vs. Asynchronous Instruction</title>
+        <dc:creator><![CDATA[@boyana boyana]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/boyana">@boyana</a> wrote:</p>
+          <blockquote>
+              <p>This sound very logical.</p>
+<p>Where do you draw the line between a dedicated to self guided learning platform and simple content marketing and blogging? Or that’s part of it?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119/2</link>
+        <pubDate>Fri, 08 Apr 2016 09:23:04 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-119-2</guid>
+        <source url="https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119.rss">Designing courses: Synchronous vs. Asynchronous Instruction</source>
+      </item>
+      <item>
+        <title>Designing courses: Synchronous vs. Asynchronous Instruction</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>Synchronous instruction is generally teacher-led and focuses on giving information required for the next upcoming lessons. This is also an opportunity to generate discussion between student and teacher to clarify any uncertainty of the material.</p>
+</blockquote>
+<blockquote>
+<p>Asynchronous instruction is a student-centered lesson where they require little help from a trained instructor to learn the material. Many times students will collaborate with others to help complete the lesson learned.</p>
+</blockquote>
+<p>– from <a href="https://medium.com/@Digitalnomadeducation/synchronous-vs-asynchronous-instruction-d9c2f8b63b80#.j56jz7f8u">Digital Nomad Education</a></p>
+<p>This is a nice distinction in education design, that applies online and in-person.  It gives us some simple design rules to use:</p>
+<h2>Keeping the soldiers marching in a row</h2>
+<p>In person, we need to lock-step the whole class at each major learning objective before moving on.  If somebody didn’t get it, then we need to know now since their confusion will compound later, and hold the class back.  In-person, we can ask some open-ended questions to the room and scan for quizzical or frustrated facial expressions.  Online, it needs to be done with smaller modules, but this sync/async divide can address this at a structural level.</p>
+<h2>Learning through application, and collaboration</h2>
+<p>The shift to asynchronous learning also means the shift towards self-directed learning.  This is where practicalities come in, and where peer-to-peer support takes hold.  The teacher’s role here shifts to a support, and the learner’s habits are developed: to play and try on their own, and to turn to their peers when they’re stuck.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119/1</link>
+        <pubDate>Tue, 05 Apr 2016 05:27:44 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-119-1</guid>
+        <source url="https://community.source.institute/t/designing-courses-synchronous-vs-asynchronous-instruction/119.rss">Designing courses: Synchronous vs. Asynchronous Instruction</source>
+      </item>
+  </channel>
+</rss>

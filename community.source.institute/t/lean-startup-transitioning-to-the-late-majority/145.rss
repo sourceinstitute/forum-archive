@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lean Startup transitioning to the late majority</title>
+    <link>https://community.source.institute/t/lean-startup-transitioning-to-the-late-majority/145</link>
+    <description>DHH shared some observations about [Ruby On Rails transitioning to the late majority](https://medium.com/@dhh/the-impact-of-the-late-majority-7634c3708743#.61h57w1yq):
+
+&gt; This brought two thoughts to mind:
+
+&gt;1. How reminiscent of Microsoft’s predicament: Long after they lost their stranglehold on the computing business, they were still crushing it in earnings and their monopolized pockets of enterprise backland. Microsoft stopped being something you simply had to relate and care about, but that didn’t prevent them from shoring up their substantial domains. It just happened out of the limelight.
+&gt;1. This is what the late majority looks like! When the early adopters leave a successful platform, and take their passionate blog posts, flashy conferences, and video presentations with them, this is what’s left. A very large, yet quiet majority of users simply getting things done.
+
+This brings to mind the transition we&#39;ve seen with Lean Startup.  The community has lost a lot of its innovators, and what&#39;s left are people who are simply using Lean Startup to make money with corporates.
+
+DHH has a positive attitude when it comes RoR here:
+
+&gt; Winning over the early adopters is a fun game, but it’s ultimately a small numbers one. The impact of getting the Hacker News crowd riled up is a pretty shallow one. 
+
+&gt; Compare that with the impact of being able to tilt at giants in the late majority. Now we’re talking! A huge mass of programmers who for a wide variety of reasons simply has to pick The Safe Choice, often stuck with offerings from the likes of Microsoft and Java.
+
+The Leancamp community fits at an interesting intersection.  Quite a few Leancamp leaders are early adopters, and we&#39;ve seen injections of new methodologies and ways of working from them, yet the audience for &quot;Lean&quot; is shifting later stage.  Startups don&#39;t much care about Lean Startup these days, whereas corporates buying innovation do.  
+
+It strikes me that the Leancamp community needs a better brand vehicle for the early-adopter conversations that drove its original success, possibly without &quot;Lean&quot; in the title, and that the Leancamp brand can adapt its model to do create more impact with the late majority.  This can look like a single backend of organisers and core community, with several front-ends, different event formats with different brands that are more targeted for specific stages in the adoption curve.</description>
+    
+    <lastBuildDate>Wed, 02 Nov 2016 07:35:05 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/lean-startup-transitioning-to-the-late-majority/145.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Lean Startup transitioning to the late majority</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>DHH shared some observations about <a href="https://medium.com/@dhh/the-impact-of-the-late-majority-7634c3708743#.61h57w1yq">Ruby On Rails transitioning to the late majority</a>:</p>
+<blockquote>
+<p>This brought two thoughts to mind:</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>How reminiscent of Microsoft’s predicament: Long after they lost their stranglehold on the computing business, they were still crushing it in earnings and their monopolized pockets of enterprise backland. Microsoft stopped being something you simply had to relate and care about, but that didn’t prevent them from shoring up their substantial domains. It just happened out of the limelight.</li>
+<li>This is what the late majority looks like! When the early adopters leave a successful platform, and take their passionate blog posts, flashy conferences, and video presentations with them, this is what’s left. A very large, yet quiet majority of users simply getting things done.</li>
+</ol>
+</blockquote>
+<p>This brings to mind the transition we’ve seen with Lean Startup.  The community has lost a lot of its innovators, and what’s left are people who are simply using Lean Startup to make money with corporates.</p>
+<p>DHH has a positive attitude when it comes RoR here:</p>
+<blockquote>
+<p>Winning over the early adopters is a fun game, but it’s ultimately a small numbers one. The impact of getting the Hacker News crowd riled up is a pretty shallow one.</p>
+</blockquote>
+<blockquote>
+<p>Compare that with the impact of being able to tilt at giants in the late majority. Now we’re talking! A huge mass of programmers who for a wide variety of reasons simply has to pick The Safe Choice, often stuck with offerings from the likes of Microsoft and Java.</p>
+</blockquote>
+<p>The Leancamp community fits at an interesting intersection.  Quite a few Leancamp leaders are early adopters, and we’ve seen injections of new methodologies and ways of working from them, yet the audience for “Lean” is shifting later stage.  Startups don’t much care about Lean Startup these days, whereas corporates buying innovation do.</p>
+<p>It strikes me that the Leancamp community needs a better brand vehicle for the early-adopter conversations that drove its original success, possibly without “Lean” in the title, and that the Leancamp brand can adapt its model to do create more impact with the late majority.  This can look like a single backend of organisers and core community, with several front-ends, different event formats with different brands that are more targeted for specific stages in the adoption curve.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/lean-startup-transitioning-to-the-late-majority/145/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/lean-startup-transitioning-to-the-late-majority/145/1</link>
+        <pubDate>Mon, 11 Apr 2016 05:24:10 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-145-1</guid>
+        <source url="https://community.source.institute/t/lean-startup-transitioning-to-the-late-majority/145.rss">Lean Startup transitioning to the late majority</source>
+      </item>
+  </channel>
+</rss>

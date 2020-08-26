@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Belt System lessons learned from Stack Overflow</title>
+    <link>https://community.source.institute/t/belt-system-lessons-learned-from-stack-overflow/840</link>
+    <description>Stack Overflow is an p2p learning platform which grew its sales using a sales force, and applied Agile to manage sales teams.  The COO looked at the organisation in 3 phases:
+
+1) The founder is able to close deals, selling the vision.
+2) The sales team is able to close deals, selling the product.
+3) The sales team is able to grow with low employee churn.
+
+A key difference from their counterparts was that they didn&#39;t separate marketing, sales and support, and instead took a &quot;full-stack&quot; approach, like full-stack developers where the a single develop can work on all necessary layers on the technology.  They had sales people who would work on all parts of the sales cycle, which created a better client experience.
+
+To make this work, they seem to have onboarded sales people in a similar way to our belt system, and as they grew started splitting functions into squads.  There were some issues with incentives, which they cite as something you need to get right to succeed, but not what encourages desired behaviour.  Rather, training is more important for that.
+
+If you have the time, this is worth a listen to pick up the nuances.
+
+https://soundcloud.com/heresyhq/heresy-e1-jeff-szczepanski-coo-stack-overflow-on-building-a-full-stack-sales-team-1</description>
+    
+    <lastBuildDate>Wed, 02 Nov 2016 07:07:17 +0000</lastBuildDate>
+    <category>Community</category>
+    <atom:link href="https://community.source.institute/t/belt-system-lessons-learned-from-stack-overflow/840.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Belt System lessons learned from Stack Overflow</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>Stack Overflow is an p2p learning platform which grew its sales using a sales force, and applied Agile to manage sales teams.  The COO looked at the organisation in 3 phases:</p>
+<ol>
+<li>The founder is able to close deals, selling the vision.</li>
+<li>The sales team is able to close deals, selling the product.</li>
+<li>The sales team is able to grow with low employee churn.</li>
+</ol>
+<p>A key difference from their counterparts was that they didn’t separate marketing, sales and support, and instead took a “full-stack” approach, like full-stack developers where the a single develop can work on all necessary layers on the technology.  They had sales people who would work on all parts of the sales cycle, which created a better client experience.</p>
+<p>To make this work, they seem to have onboarded sales people in a similar way to our belt system, and as they grew started splitting functions into squads.  There were some issues with incentives, which they cite as something you need to get right to succeed, but not what encourages desired behaviour.  Rather, training is more important for that.</p>
+<p>If you have the time, this is worth a listen to pick up the nuances.</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F274535964&amp;show_artwork=true&amp;maxheight=166" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/belt-system-lessons-learned-from-stack-overflow/840/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/belt-system-lessons-learned-from-stack-overflow/840/1</link>
+        <pubDate>Tue, 20 Sep 2016 18:24:02 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-840-1</guid>
+        <source url="https://community.source.institute/t/belt-system-lessons-learned-from-stack-overflow/840.rss">Belt System lessons learned from Stack Overflow</source>
+      </item>
+  </channel>
+</rss>

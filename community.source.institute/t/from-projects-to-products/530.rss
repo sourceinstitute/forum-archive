@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>From projects to products</title>
+    <link>https://community.source.institute/t/from-projects-to-products/530</link>
+    <description>From SG, I felt one of the main gaps in Agile understanding at AI was the ways agile methodologies focus on the customer.  (I though I&#39;d share quick guidance here on our forum - feel free to invite others from the AI team to sign up to see these.)
+
+There are few key things to understand about Agile to make it work for you, rather than against you.
+
+Let&#39;s start with some of the key issues *that I&#39;ve heard from you*:
+
+1. AI has too many meetings.  Not enough time to work.
+1. AI team members often don&#39;t take action they feel is useful, because they feel they are stepping outside of their role.
+1. AI tends to have to nanny the network, checking they&#39;re doing their job and that they&#39;re implementing the new processes.  Not a good use of time.
+1. AI projects tend to fall back to top-down directives and running processes, rather than customer focus.
+
+Doing Agile without the parts that give you customer focus are likely to make these problems worse, not better.
+
+## Agile Squads are multi-disciplinary teams that work on products which give value to customer at the end of every sprint
+
+So to do this at AI, we need to be aware of the differences in how AI has organised in the past, and how AI needs to organise to make Agile work.
+
+## Products, not projects
+
+Projects have goals that serve the host organisation.  Products have goals that serve the customer.  When you organise into product teams, you break work down, not by function, but by value to the customer.  
+
+A specific Agile technique called User Stories is the unit of progress.  Shipping something that acheives the user stories allows the squad to self-organise and do what needs doing to deliver value.
+
+https://www.youtube.com/watch?v=LGeDZmrWwsw
+
+## Product teams have every function they need on their squad
+When you break up your teams by function, then you create interdependency.  This slows you down because not only are you going to end up waiting on others, which will lead to more need for planning and less time for doing, you&#39;re also going to end up feeling like you *shouldn&#39;t do what makes sense for you* because it might mess with another project.  
+
+That makes it difficult for the team to just do what it needs to do to deliver value into customer hands every week, which slows down everyone&#39;s speed and learning.
+
+Product teams have everyone they need in the squad and can act.  The squad doesn&#39;t need to check in with anyone but themselves.  There&#39;s less time needed for meetings and talking, and more of a culture of &quot;let&#39;s just try this.&quot;  Fearlessness!
+
+## Are you serving the needs of @ network, or serving your ideas?
+If the squads work affects MCs or LCs, those people should be represented in the squad.  At best, they are included in the squads (and then the squad is a *remote* squad) - at the very least, they are represented by the product owner who treats them as a stakeholder.  
+
+The key point is that their needs are front-and-center every week and every deliverable.  Their voice is literally heard every time there&#39;s an AI brainstorm about what to do.
+
+@Ext_AIESECIntl</description>
+    
+    <lastBuildDate>Mon, 18 Jul 2016 20:05:39 +0000</lastBuildDate>
+    <category>AIESEC International</category>
+    <atom:link href="https://community.source.institute/t/from-projects-to-products/530.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>From projects to products</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>Great - wasn’t sure if anyone was reading this.</p>
+<p>Your share link will require them to log in with their <a href="http://ai.aieseg.org">ai.aieseg.org</a> address.  If that’s a problem, feel free to repost it.  Or you can give me access to post this stuff somewhere more convenient for AI.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/from-projects-to-products/530/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/from-projects-to-products/530/4</link>
+        <pubDate>Mon, 18 Jul 2016 20:05:39 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-530-4</guid>
+        <source url="https://community.source.institute/t/from-projects-to-products/530.rss">From projects to products</source>
+      </item>
+      <item>
+        <title>From projects to products</title>
+        <dc:creator><![CDATA[@Niels Niels Caszo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/niels">@Niels</a> wrote:</p>
+          <blockquote>
+              <p>It’s alright, I used the share link button to slack it.</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/from-projects-to-products/530/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/from-projects-to-products/530/3</link>
+        <pubDate>Mon, 18 Jul 2016 19:40:13 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-530-3</guid>
+        <source url="https://community.source.institute/t/from-projects-to-products/530.rss">From projects to products</source>
+      </item>
+      <item>
+        <title>From projects to products</title>
+        <dc:creator><![CDATA[@Niels Niels Caszo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/niels">@Niels</a> wrote:</p>
+          <blockquote>
+              <p>Hey Sal, had read this and it helped quite a bit. It is alright if I copy paste this and send it across to a few people on my team?</p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/from-projects-to-products/530/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/from-projects-to-products/530/2</link>
+        <pubDate>Mon, 18 Jul 2016 19:35:07 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-530-2</guid>
+        <source url="https://community.source.institute/t/from-projects-to-products/530.rss">From projects to products</source>
+      </item>
+      <item>
+        <title>From projects to products</title>
+        <dc:creator><![CDATA[@salim Salim Virani]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://community.source.institute/u/salim">@salim</a> wrote:</p>
+          <blockquote>
+              <p>From SG, I felt one of the main gaps in Agile understanding at AI was the ways agile methodologies focus on the customer.  (I though I’d share quick guidance here on our forum - feel free to invite others from the AI team to sign up to see these.)</p>
+<p>There are few key things to understand about Agile to make it work for you, rather than against you.</p>
+<p>Let’s start with some of the key issues <em>that I’ve heard from you</em>:</p>
+<ol>
+<li>AI has too many meetings.  Not enough time to work.</li>
+<li>AI team members often don’t take action they feel is useful, because they feel they are stepping outside of their role.</li>
+<li>AI tends to have to nanny the network, checking they’re doing their job and that they’re implementing the new processes.  Not a good use of time.</li>
+<li>AI projects tend to fall back to top-down directives and running processes, rather than customer focus.</li>
+</ol>
+<p>Doing Agile without the parts that give you customer focus are likely to make these problems worse, not better.</p>
+<h2>Agile Squads are multi-disciplinary teams that work on products which give value to customer at the end of every sprint</h2>
+<p>So to do this at AI, we need to be aware of the differences in how AI has organised in the past, and how AI needs to organise to make Agile work.</p>
+<h2>Products, not projects</h2>
+<p>Projects have goals that serve the host organisation.  Products have goals that serve the customer.  When you organise into product teams, you break work down, not by function, but by value to the customer.</p>
+<p>A specific Agile technique called User Stories is the unit of progress.  Shipping something that acheives the user stories allows the squad to self-organise and do what needs doing to deliver value.</p>
+<div class="lazyYT" data-youtube-id="LGeDZmrWwsw" data-youtube-title="Agile In Practice: StoryCards/User Stories" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+<h2>Product teams have every function they need on their squad</h2>
+<p>When you break up your teams by function, then you create interdependency.  This slows you down because not only are you going to end up waiting on others, which will lead to more need for planning and less time for doing, you’re also going to end up feeling like you <em>shouldn’t do what makes sense for you</em> because it might mess with another project.</p>
+<p>That makes it difficult for the team to just do what it needs to do to deliver value into customer hands every week, which slows down everyone’s speed and learning.</p>
+<p>Product teams have everyone they need in the squad and can act.  The squad doesn’t need to check in with anyone but themselves.  There’s less time needed for meetings and talking, and more of a culture of “let’s just try this.”  Fearlessness!</p>
+<h2>Are you serving the needs of @ network, or serving your ideas?</h2>
+<p>If the squads work affects MCs or LCs, those people should be represented in the squad.  At best, they are included in the squads (and then the squad is a <em>remote</em> squad) - at the very least, they are represented by the product owner who treats them as a stakeholder.</p>
+<p>The key point is that their needs are front-and-center every week and every deliverable.  Their voice is literally heard every time there’s an AI brainstorm about what to do.</p>
+<p><span class="mention">@Ext_AIESECIntl</span></p>
+          </blockquote>
+          <p><a href="https://community.source.institute/t/from-projects-to-products/530/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://community.source.institute/t/from-projects-to-products/530/1</link>
+        <pubDate>Wed, 13 Jul 2016 18:47:12 +0000</pubDate>
+        <guid isPermaLink="false">community.source.institute-post-530-1</guid>
+        <source url="https://community.source.institute/t/from-projects-to-products/530.rss">From projects to products</source>
+      </item>
+  </channel>
+</rss>
